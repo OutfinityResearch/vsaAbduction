@@ -1,0 +1,28 @@
+# Artifact cards
+
+- Helioforge Key: a sunlit, iron, electric, red relic, carried by gate pilots.
+- Nulltide Lantern: a moonlit, glass, organic, blue lamp, grown in quiet oceans.
+- Solar Needle: a sunlit, electric, ancient needle, found inside a collapsed star map.
+- Moon Glass: a moonlit, glass, engraved shard, etched with tidal coordinates.
+- Spark Coin: a iron, electric, red coin, used as a battery-token.
+- Glass Moth: a glass, organic, floating moth, alive only in vacuum gardens.
+- Iron Root: a iron, organic, ancient root, taken from a metal forest.
+- Eclipse Shell: a sunlit, moonlit, silent shell, silent during every ignition.
+- Sunwire Prism: a sunlit, glass, electric, blue prism, wired to the navigation altar.
+- Nightseed Engine: a moonlit, organic, iron, red engine, sprouted from a dormant machine.
+- Auric Feather: a sunlit, floating, engraved feather, engraved with pilot songs.
+- Void Bloom: a moonlit, organic, silent flower, opens only after failed jumps.
+- Wire Orchid: a electric, organic, floating orchid, hums near broken clocks.
+- Silver Ash: a iron, glass, ancient ash, sifted from a forgotten forge.
+- Amber Dial: a sunlit, glass, red dial, warms when the gate wakes.
+- Lunar Fuse: a moonlit, electric, blue fuse, cold even when charged.
+- Daysteel Compass: a sunlit, iron, floating compass, not present in the training logs.
+- Dreamglass Seed: a moonlit, glass, organic seed, not present in the training logs.
+- Thunder Reed: a electric, organic, blue reed, not present in the training logs.
+- Solar Thread: a sunlit, electric, engraved thread, not present in the training logs.
+- Mist Mirror: a moonlit, glass, silent mirror, not present in the training logs.
+- Iron Ember: a iron, red, ancient ember, not present in the training logs.
+- Glass Root: a glass, organic, floating root, not present in the training logs.
+- Bright Coil: a sunlit, iron, electric coil, not present in the training logs.
+- Moon Orchid: a moonlit, organic, blue orchid, not present in the training logs.
+- Static Shell: a electric, glass, engraved shell, not present in the training logs.

@@ -1,0 +1,8 @@
+model,trainMistakes,modelBits,dataBits,totalBits,explanation
+"Semantic abductive invariant",0,37.852,0.000,37.852,"Introduces a sparse latent semantic property over words and an equality-to-zero law."
+"HDC residual threshold",0,49.852,0.000,49.852,"Distributed VSA/HDC realization of the same concept, with a learned threshold."
+"Object-id invariant",0,74.830,0.000,74.830,"Finds charges for known object names; cannot infer charges for new objects from descriptions."
+"Majority label",80,1.000,586.473,587.473,"Baseline predictor; does not introduce a conservation-like latent property."
+"Logistic feature-bag classifier",71,208.000,520.495,728.495,"Baseline predictor; does not introduce a conservation-like latent property."
+"Exact scene memorizer",0,2080.000,0.000,2080.000,"Baseline predictor; does not introduce a conservation-like latent property."
+"3-nearest neighbors on feature counts",20,7680.000,146.618,7826.618,"Baseline predictor; does not introduce a conservation-like latent property."

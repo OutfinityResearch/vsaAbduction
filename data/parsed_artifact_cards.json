@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Helioforge Key",
+    "attrs": [
+      "sunlit",
+      "iron",
+      "electric",
+      "red"
+    ]
+  },
+  {
+    "name": "Nulltide Lantern",
+    "attrs": [
+      "moonlit",
+      "glass",
+      "organic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Solar Needle",
+    "attrs": [
+      "sunlit",
+      "electric",
+      "ancient"
+    ]
+  },
+  {
+    "name": "Moon Glass",
+    "attrs": [
+      "moonlit",
+      "glass",
+      "engraved"
+    ]
+  },
+  {
+    "name": "Spark Coin",
+    "attrs": [
+      "iron",
+      "electric",
+      "red"
+    ]
+  },
+  {
+    "name": "Glass Moth",
+    "attrs": [
+      "glass",
+      "organic",
+      "floating"
+    ]
+  },
+  {
+    "name": "Iron Root",
+    "attrs": [
+      "iron",
+      "organic",
+      "ancient"
+    ]
+  },
+  {
+    "name": "Eclipse Shell",
+    "attrs": [
+      "sunlit",
+      "moonlit",
+      "silent"
+    ]
+  },
+  {
+    "name": "Sunwire Prism",
+    "attrs": [
+      "sunlit",
+      "glass",
+      "electric",
+      "red",
+      "blue"
+    ]
+  },
+  {
+    "name": "Nightseed Engine",
+    "attrs": [
+      "moonlit",
+      "iron",
+      "organic",
+      "red"
+    ]
+  },
+  {
+    "name": "Auric Feather",
+    "attrs": [
+      "sunlit",
+      "floating",
+      "engraved"
+    ]
+  },
+  {
+    "name": "Void Bloom",
+    "attrs": [
+      "moonlit",
+      "organic",
+      "silent"
+    ]
+  },
+  {
+    "name": "Wire Orchid",
+    "attrs": [
+      "electric",
+      "organic",
+      "floating"
+    ]
+  },
+  {
+    "name": "Silver Ash",
+    "attrs": [
+      "iron",
+      "glass",
+      "ancient"
+    ]
+  },
+  {
+    "name": "Amber Dial",
+    "attrs": [
+      "sunlit",
+      "glass",
+      "red"
+    ]
+  },
+  {
+    "name": "Lunar Fuse",
+    "attrs": [
+      "moonlit",
+      "electric",
+      "blue"
+    ]
+  },
+  {
+    "name": "Daysteel Compass",
+    "attrs": [
+      "sunlit",
+      "iron",
+      "floating"
+    ]
+  },
+  {
+    "name": "Dreamglass Seed",
+    "attrs": [
+      "moonlit",
+      "glass",
+      "organic"
+    ]
+  },
+  {
+    "name": "Thunder Reed",
+    "attrs": [
+      "electric",
+      "organic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Solar Thread",
+    "attrs": [
+      "sunlit",
+      "electric",
+      "engraved"
+    ]
+  },
+  {
+    "name": "Mist Mirror",
+    "attrs": [
+      "moonlit",
+      "glass",
+      "silent"
+    ]
+  },
+  {
+    "name": "Iron Ember",
+    "attrs": [
+      "iron",
+      "red",
+      "ancient"
+    ]
+  },
+  {
+    "name": "Glass Root",
+    "attrs": [
+      "glass",
+      "organic",
+      "floating"
+    ]
+  },
+  {
+    "name": "Bright Coil",
+    "attrs": [
+      "sunlit",
+      "iron",
+      "electric"
+    ]
+  },
+  {
+    "name": "Moon Orchid",
+    "attrs": [
+      "moonlit",
+      "organic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Static Shell",
+    "attrs": [
+      "glass",
+      "electric",
+      "engraved"
+    ]
+  }
+]

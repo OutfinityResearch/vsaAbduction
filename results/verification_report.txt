@@ -1,0 +1,12 @@
+
+> eos-gate-semantic-abduction@1.0.0 test
+> node test/verify_results.js
+
+Verification report
+-------------------
+Semantic invariant recovered: true
+Train / known / extrapolation / novel accuracies: 1, 1, 1, 1
+Object-id invariant on novel objects: 0.5
+HDC residual on extrapolation: 0.82
+Interventions verified: 30/30
+Shuffled-label control recovered hidden concept: false

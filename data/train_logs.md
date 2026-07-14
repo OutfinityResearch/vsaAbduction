@@ -1,0 +1,162 @@
+# Training logs
+
+- Eos Gate Log 0001: The crew placed 4x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0002: The crew placed 1x Auric Feather; 1x Glass Moth; 3x Helioforge Key; 3x Iron Root; 3x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0003: The crew placed 2x Iron Root; 3x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0004: The crew placed 2x Auric Feather; 1x Eclipse Shell; 2x Nulltide Lantern; 3x Silver Ash; 2x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0005: The crew placed 3x Auric Feather; 3x Glass Moth in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0006: The crew placed 3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern; 1x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0007: The crew placed 3x Nightseed Engine; 3x Silver Ash; 2x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0008: The crew placed 3x Amber Dial; 1x Moon Glass in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0009: The crew placed 2x Iron Root; 2x Nightseed Engine; 2x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0010: The crew placed 3x Glass Moth; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0011: The crew placed 1x Eclipse Shell; 3x Helioforge Key; 1x Moon Glass; 3x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0012: The crew placed 3x Eclipse Shell; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0013: The crew placed 1x Amber Dial; 2x Eclipse Shell; 1x Lunar Fuse in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0014: The crew placed 2x Auric Feather; 1x Glass Moth; 2x Helioforge Key; 3x Nightseed Engine; 1x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0015: The crew placed 2x Eclipse Shell; 1x Helioforge Key; 1x Iron Root; 1x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0016: The crew placed 1x Iron Root; 1x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0017: The crew placed 3x Glass Moth; 3x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0018: The crew placed 2x Moon Glass; 3x Solar Needle; 1x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0019: The crew placed 6x Eclipse Shell; 3x Iron Root; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0020: The crew placed 3x Glass Moth; 2x Iron Root; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0021: The crew placed 1x Eclipse Shell; 3x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0022: The crew placed 4x Eclipse Shell; 2x Silver Ash; 3x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0023: The crew placed 2x Amber Dial; 3x Eclipse Shell; 1x Glass Moth in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0024: The crew placed 2x Eclipse Shell; 2x Iron Root in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0025: The crew placed 3x Iron Root; 3x Solar Needle; 3x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0026: The crew placed 1x Auric Feather; 1x Iron Root; 1x Nulltide Lantern; 1x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0027: The crew placed 3x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0028: The crew placed 2x Amber Dial; 1x Glass Moth; 2x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0029: The crew placed 1x Nightseed Engine; 1x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0030: The crew placed 2x Amber Dial; 1x Glass Moth; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0031: The crew placed 3x Auric Feather; 3x Eclipse Shell; 3x Glass Moth; 2x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0032: The crew placed 2x Iron Root; 2x Lunar Fuse; 2x Nightseed Engine; 1x Silver Ash; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0033: The crew placed 2x Glass Moth; 3x Helioforge Key; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0034: The crew placed 1x Auric Feather; 3x Eclipse Shell; 2x Lunar Fuse in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0035: The crew placed 3x Silver Ash; 5x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0036: The crew placed 3x Nightseed Engine; 2x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0037: The crew placed 1x Auric Feather; 2x Lunar Fuse; 3x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0038: The crew placed 9x Iron Root; 1x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0039: The crew placed 3x Eclipse Shell; 3x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0040: The crew placed 3x Eclipse Shell; 3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0041: The crew placed 2x Helioforge Key; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0042: The crew placed 1x Amber Dial; 1x Auric Feather; 1x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0043: The crew placed 1x Helioforge Key; 1x Nulltide Lantern; 2x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0044: The crew placed 3x Auric Feather; 3x Eclipse Shell; 1x Moon Glass; 3x Nulltide Lantern; 3x Solar Needle in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0045: The crew placed 3x Auric Feather; 3x Eclipse Shell; 3x Nightseed Engine; 5x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0046: The crew placed 3x Nightseed Engine; 3x Sunwire Prism; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0047: The crew placed 3x Auric Feather; 2x Iron Root; 2x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0048: The crew placed 3x Eclipse Shell; 2x Moon Glass; 2x Silver Ash; 3x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0049: The crew placed 3x Glass Moth; 3x Iron Root; 2x Solar Needle in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0050: The crew placed 2x Moon Glass; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0051: The crew placed 3x Nightseed Engine; 2x Solar Needle in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0052: The crew placed 1x Nightseed Engine; 1x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0053: The crew placed 5x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0054: The crew placed 6x Auric Feather; 4x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0055: The crew placed 2x Amber Dial; 3x Auric Feather; 3x Iron Root; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0056: The crew placed 1x Nightseed Engine; 1x Spark Coin; 5x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0057: The crew placed 1x Iron Root; 1x Nightseed Engine; 1x Nulltide Lantern; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0058: The crew placed 1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0059: The crew placed 3x Amber Dial; 2x Silver Ash; 3x Spark Coin; 3x Void Bloom in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0060: The crew placed 3x Eclipse Shell; 3x Iron Root in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0061: The crew placed 2x Amber Dial; 3x Auric Feather; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0062: The crew placed 1x Silver Ash; 1x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0063: The crew placed 2x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0064: The crew placed 3x Amber Dial; 2x Eclipse Shell; 3x Moon Glass; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0065: The crew placed 3x Moon Glass; 3x Solar Needle in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0066: The crew placed 1x Glass Moth; 2x Nightseed Engine; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0067: The crew placed 2x Iron Root; 1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0068: The crew placed 2x Amber Dial; 1x Iron Root; 2x Lunar Fuse; 2x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0069: The crew placed 1x Iron Root; 2x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0070: The crew placed 3x Helioforge Key; 3x Lunar Fuse; 3x Moon Glass; 3x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0071: The crew placed 3x Iron Root; 3x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0072: The crew placed 1x Auric Feather; 1x Glass Moth in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0073: The crew placed 1x Auric Feather; 1x Iron Root; 1x Nightseed Engine in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0074: The crew placed 3x Iron Root; 1x Silver Ash; 3x Wire Orchid in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0075: The crew placed 3x Eclipse Shell; 3x Glass Moth; 3x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0076: The crew placed 3x Iron Root; 2x Lunar Fuse; 1x Silver Ash; 1x Spark Coin in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0077: The crew placed 3x Eclipse Shell; 3x Glass Moth; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0078: The crew placed 5x Iron Root in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0079: The crew placed 2x Eclipse Shell; 2x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0080: The crew placed 1x Auric Feather; 2x Lunar Fuse; 2x Silver Ash in the gate chamber. Outcome: COHERENT.
+- Eos Gate Log 0081: The crew placed 2x Auric Feather; 1x Moon Glass in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0082: The crew placed 2x Helioforge Key; 3x Lunar Fuse; 3x Nightseed Engine; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0083: The crew placed 2x Auric Feather; 1x Helioforge Key in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0084: The crew placed 2x Eclipse Shell; 1x Iron Root; 3x Moon Glass; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0085: The crew placed 3x Lunar Fuse; 2x Moon Glass; 1x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0086: The crew placed 3x Helioforge Key; 3x Lunar Fuse; 1x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0087: The crew placed 2x Nulltide Lantern; 1x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0088: The crew placed 4x Amber Dial; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0089: The crew placed 1x Glass Moth; 2x Silver Ash; 1x Void Bloom; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0090: The crew placed 2x Amber Dial; 3x Glass Moth; 1x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0091: The crew placed 1x Eclipse Shell; 1x Lunar Fuse; 2x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0092: The crew placed 1x Helioforge Key; 2x Lunar Fuse; 1x Spark Coin; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0093: The crew placed 3x Solar Needle; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0094: The crew placed 2x Lunar Fuse; 2x Moon Glass; 3x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0095: The crew placed 3x Auric Feather; 2x Eclipse Shell; 1x Moon Glass in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0096: The crew placed 2x Eclipse Shell; 3x Glass Moth; 2x Moon Glass; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0097: The crew placed 1x Auric Feather; 2x Silver Ash; 3x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0098: The crew placed 1x Auric Feather; 1x Iron Root; 1x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0099: The crew placed 1x Eclipse Shell; 3x Helioforge Key; 1x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0100: The crew placed 1x Glass Moth; 1x Iron Root; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0101: The crew placed 3x Glass Moth; 1x Moon Glass in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0102: The crew placed 1x Nightseed Engine; 2x Silver Ash; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0103: The crew placed 1x Glass Moth; 2x Moon Glass; 1x Silver Ash; 2x Spark Coin; 2x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0104: The crew placed 3x Auric Feather; 1x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0105: The crew placed 3x Glass Moth; 1x Helioforge Key; 2x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0106: The crew placed 3x Amber Dial; 3x Eclipse Shell; 1x Glass Moth; 1x Helioforge Key; 3x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0107: The crew placed 3x Glass Moth; 2x Lunar Fuse; 3x Moon Glass; 1x Nulltide Lantern; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0108: The crew placed 3x Helioforge Key; 1x Nightseed Engine; 5x Nulltide Lantern; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0109: The crew placed 3x Eclipse Shell; 3x Glass Moth; 1x Nulltide Lantern; 2x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0110: The crew placed 1x Amber Dial; 3x Moon Glass; 3x Nightseed Engine; 2x Nulltide Lantern; 2x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0111: The crew placed 2x Auric Feather; 3x Eclipse Shell; 3x Lunar Fuse; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0112: The crew placed 2x Lunar Fuse; 1x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0113: The crew placed 1x Auric Feather; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0114: The crew placed 2x Sunwire Prism; 2x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0115: The crew placed 2x Glass Moth; 3x Lunar Fuse; 3x Nightseed Engine; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0116: The crew placed 1x Glass Moth; 3x Moon Glass; 2x Nightseed Engine; 2x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0117: The crew placed 3x Glass Moth; 2x Silver Ash; 3x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0118: The crew placed 1x Auric Feather; 2x Iron Root; 2x Lunar Fuse; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0119: The crew placed 2x Amber Dial; 2x Lunar Fuse; 2x Moon Glass; 3x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0120: The crew placed 2x Eclipse Shell; 2x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 3x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0121: The crew placed 2x Amber Dial; 2x Helioforge Key; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0122: The crew placed 4x Auric Feather; 2x Eclipse Shell; 2x Glass Moth in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0123: The crew placed 1x Eclipse Shell; 3x Moon Glass; 2x Nightseed Engine in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0124: The crew placed 1x Solar Needle; 1x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0125: The crew placed 2x Amber Dial; 1x Eclipse Shell; 2x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0126: The crew placed 2x Glass Moth; 3x Helioforge Key; 3x Silver Ash; 1x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0127: The crew placed 3x Glass Moth; 1x Nulltide Lantern; 4x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0128: The crew placed 1x Glass Moth; 5x Helioforge Key in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0129: The crew placed 3x Glass Moth; 3x Lunar Fuse in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0130: The crew placed 2x Helioforge Key; 1x Nightseed Engine in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0131: The crew placed 3x Amber Dial; 3x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0132: The crew placed 5x Amber Dial; 2x Iron Root; 3x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0133: The crew placed 1x Auric Feather; 1x Nightseed Engine; 3x Nulltide Lantern; 3x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0134: The crew placed 2x Amber Dial; 1x Iron Root; 1x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0135: The crew placed 2x Auric Feather; 3x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 2x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0136: The crew placed 3x Iron Root; 1x Nulltide Lantern; 3x Sunwire Prism; 3x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0137: The crew placed 2x Amber Dial; 3x Helioforge Key in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0138: The crew placed 1x Amber Dial; 3x Solar Needle; 3x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0139: The crew placed 2x Auric Feather; 1x Nightseed Engine; 3x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0140: The crew placed 3x Amber Dial; 1x Sunwire Prism; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0141: The crew placed 3x Auric Feather; 3x Moon Glass; 3x Nightseed Engine in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0142: The crew placed 4x Amber Dial; 3x Helioforge Key; 3x Silver Ash in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0143: The crew placed 4x Auric Feather; 1x Iron Root in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0144: The crew placed 1x Glass Moth; 3x Iron Root in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0145: The crew placed 1x Auric Feather; 2x Helioforge Key; 3x Lunar Fuse; 2x Solar Needle in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0146: The crew placed 3x Amber Dial; 2x Helioforge Key; 4x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0147: The crew placed 1x Amber Dial; 3x Nightseed Engine; 3x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0148: The crew placed 2x Amber Dial; 2x Auric Feather; 3x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0149: The crew placed 2x Amber Dial; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0150: The crew placed 1x Auric Feather; 2x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0151: The crew placed 2x Helioforge Key; 1x Iron Root; 3x Moon Glass; 5x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0152: The crew placed 5x Auric Feather; 3x Moon Glass; 3x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0153: The crew placed 2x Amber Dial; 2x Auric Feather; 1x Eclipse Shell; 1x Helioforge Key; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0154: The crew placed 1x Iron Root; 1x Lunar Fuse; 3x Moon Glass; 2x Nulltide Lantern in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0155: The crew placed 1x Nightseed Engine; 1x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0156: The crew placed 3x Iron Root; 2x Sunwire Prism; 1x Void Bloom in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0157: The crew placed 1x Iron Root; 2x Silver Ash; 1x Solar Needle; 2x Spark Coin in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0158: The crew placed 3x Eclipse Shell; 1x Glass Moth; 1x Nulltide Lantern; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0159: The crew placed 5x Amber Dial; 1x Helioforge Key; 1x Lunar Fuse in the gate chamber. Outcome: FRACTURED.
+- Eos Gate Log 0160: The crew placed 1x Auric Feather; 2x Eclipse Shell; 6x Nulltide Lantern; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED.

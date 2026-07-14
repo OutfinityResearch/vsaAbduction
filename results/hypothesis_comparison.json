@@ -1,0 +1,58 @@
+[
+  {
+    "model": "Semantic abductive invariant",
+    "trainMistakes": 0,
+    "modelBits": 37.851749041416056,
+    "dataBits": 0,
+    "totalBits": 37.851749041416056,
+    "explanation": "Introduces a sparse latent semantic property over words and an equality-to-zero law."
+  },
+  {
+    "model": "HDC residual threshold",
+    "trainMistakes": 0,
+    "modelBits": 49.851749041416056,
+    "dataBits": 0,
+    "totalBits": 49.851749041416056,
+    "explanation": "Distributed VSA/HDC realization of the same concept, with a learned threshold."
+  },
+  {
+    "model": "Object-id invariant",
+    "trainMistakes": 0,
+    "modelBits": 74.82972273508605,
+    "dataBits": 0,
+    "totalBits": 74.82972273508605,
+    "explanation": "Finds charges for known object names; cannot infer charges for new objects from descriptions."
+  },
+  {
+    "model": "Majority label",
+    "trainMistakes": 80,
+    "modelBits": 1,
+    "dataBits": 586.4733502491695,
+    "totalBits": 587.4733502491695,
+    "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+  },
+  {
+    "model": "Logistic feature-bag classifier",
+    "trainMistakes": 71,
+    "modelBits": 208,
+    "dataBits": 520.4950983461379,
+    "totalBits": 728.4950983461379,
+    "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+  },
+  {
+    "model": "Exact scene memorizer",
+    "trainMistakes": 0,
+    "modelBits": 2080,
+    "dataBits": 0,
+    "totalBits": 2080,
+    "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+  },
+  {
+    "model": "3-nearest neighbors on feature counts",
+    "trainMistakes": 20,
+    "modelBits": 7680,
+    "dataBits": 146.61833756229237,
+    "totalBits": 7826.618337562292,
+    "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+  }
+]

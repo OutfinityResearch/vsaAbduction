@@ -1,0 +1,15 @@
+{
+  "name": "eos-gate-semantic-abduction",
+  "version": "1.0.0",
+  "description": "A dependency-free Node.js micro-world experiment for testing semantic conceptual abduction with a VSA/HDC representation.",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "run": "node scripts/run_experiment.js",
+    "figures": "node scripts/generate_figures.js",
+    "test": "node test/verify_results.js",
+    "all": "node scripts/run_experiment.js && node scripts/generate_figures.js && node test/verify_results.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

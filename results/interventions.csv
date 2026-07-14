@@ -1,0 +1,31 @@
+eventId,originalScene,discoveredResidualBefore,additions,repairedScene,discoveredResidualAfter,oracleChargeAfter,verified
+151,"7x Auric Feather; 3x Glass Moth; 6x Iron Root; 3x Nightseed Engine; 8x Wire Orchid",2,"{\"Glass Moth\":1}","7x Auric Feather; 4x Glass Moth; 6x Iron Root; 3x Nightseed Engine; 8x Wire Orchid",0,0,true
+153,"6x Amber Dial; 6x Auric Feather; 6x Helioforge Key; 6x Void Bloom",24,"{\"Nulltide Lantern\":6}","6x Amber Dial; 6x Auric Feather; 6x Helioforge Key; 6x Nulltide Lantern; 6x Void Bloom",0,0,true
+154,"15x Lunar Fuse; 5x Moon Glass; 3x Spark Coin",-24,"{\"Helioforge Key\":6}","6x Helioforge Key; 15x Lunar Fuse; 5x Moon Glass; 3x Spark Coin",0,0,true
+155,"8x Amber Dial; 3x Auric Feather; 4x Eclipse Shell; 8x Nulltide Lantern; 7x Spark Coin",-4,"{\"Helioforge Key\":1}","8x Amber Dial; 3x Auric Feather; 4x Eclipse Shell; 1x Helioforge Key; 8x Nulltide Lantern; 7x Spark Coin",0,0,true
+156,"6x Lunar Fuse; 3x Moon Glass; 8x Silver Ash",-15,"{\"Solar Needle\":5}","6x Lunar Fuse; 3x Moon Glass; 8x Silver Ash; 5x Solar Needle",0,0,true
+159,"3x Amber Dial; 3x Moon Glass; 5x Wire Orchid",-6,"{\"Solar Needle\":2}","3x Amber Dial; 3x Moon Glass; 2x Solar Needle; 5x Wire Orchid",0,0,true
+160,"6x Moon Glass; 9x Silver Ash; 8x Solar Needle; 4x Sunwire Prism",14,"{\"Nulltide Lantern\":2,\"Moon Glass\":2}","8x Moon Glass; 2x Nulltide Lantern; 9x Silver Ash; 8x Solar Needle; 4x Sunwire Prism",0,0,true
+161,"8x Iron Root; 6x Moon Glass",-18,"{\"Solar Needle\":6}","8x Iron Root; 6x Moon Glass; 6x Solar Needle",0,0,true
+162,"5x Eclipse Shell; 4x Helioforge Key; 3x Nightseed Engine; 6x Solar Needle",28,"{\"Nulltide Lantern\":7}","5x Eclipse Shell; 4x Helioforge Key; 3x Nightseed Engine; 7x Nulltide Lantern; 6x Solar Needle",0,0,true
+164,"4x Amber Dial; 4x Glass Moth; 7x Nulltide Lantern",-32,"{\"Helioforge Key\":8}","4x Amber Dial; 4x Glass Moth; 8x Helioforge Key; 7x Nulltide Lantern",0,0,true
+168,"6x Iron Root; 8x Lunar Fuse",-8,"{\"Helioforge Key\":2}","2x Helioforge Key; 6x Iron Root; 8x Lunar Fuse",0,0,true
+170,"14x Amber Dial",14,"{\"Nulltide Lantern\":2,\"Moon Glass\":2}","14x Amber Dial; 2x Moon Glass; 2x Nulltide Lantern",0,0,true
+171,"4x Glass Moth; 4x Silver Ash; 3x Solar Needle; 8x Sunwire Prism; 7x Wire Orchid",17,"{\"Nulltide Lantern\":2,\"Moon Glass\":3}","4x Glass Moth; 3x Moon Glass; 2x Nulltide Lantern; 4x Silver Ash; 3x Solar Needle; 8x Sunwire Prism; 7x Wire Orchid",0,0,true
+172,"10x Eclipse Shell; 8x Moon Glass",-24,"{\"Helioforge Key\":6}","10x Eclipse Shell; 6x Helioforge Key; 8x Moon Glass",0,0,true
+173,"7x Amber Dial; 6x Nulltide Lantern; 8x Silver Ash; 7x Solar Needle",4,"{\"Nulltide Lantern\":1}","7x Amber Dial; 7x Nulltide Lantern; 8x Silver Ash; 7x Solar Needle",0,0,true
+174,"5x Amber Dial; 3x Glass Moth; 8x Lunar Fuse; 4x Solar Needle; 7x Sunwire Prism",17,"{\"Nulltide Lantern\":2,\"Moon Glass\":3}","5x Amber Dial; 3x Glass Moth; 8x Lunar Fuse; 3x Moon Glass; 2x Nulltide Lantern; 4x Solar Needle; 7x Sunwire Prism",0,0,true
+175,"3x Iron Root; 5x Nulltide Lantern; 11x Sunwire Prism; 4x Void Bloom",-10,"{\"Spark Coin\":5}","3x Iron Root; 5x Nulltide Lantern; 5x Spark Coin; 11x Sunwire Prism; 4x Void Bloom",0,0,true
+176,"7x Glass Moth; 5x Nightseed Engine",-24,"{\"Helioforge Key\":6}","7x Glass Moth; 6x Helioforge Key; 5x Nightseed Engine",0,0,true
+177,"3x Auric Feather; 6x Helioforge Key; 4x Nightseed Engine; 8x Nulltide Lantern",-10,"{\"Spark Coin\":5}","3x Auric Feather; 6x Helioforge Key; 4x Nightseed Engine; 8x Nulltide Lantern; 5x Spark Coin",0,0,true
+178,"4x Amber Dial; 3x Glass Moth; 5x Nightseed Engine; 4x Spark Coin",-4,"{\"Helioforge Key\":1}","4x Amber Dial; 3x Glass Moth; 1x Helioforge Key; 5x Nightseed Engine; 4x Spark Coin",0,0,true
+179,"3x Iron Root; 8x Lunar Fuse; 4x Nightseed Engine; 4x Solar Needle",-4,"{\"Helioforge Key\":1}","1x Helioforge Key; 3x Iron Root; 8x Lunar Fuse; 4x Nightseed Engine; 4x Solar Needle",0,0,true
+180,"8x Nightseed Engine; 7x Silver Ash",-16,"{\"Helioforge Key\":4}","4x Helioforge Key; 8x Nightseed Engine; 7x Silver Ash",0,0,true
+181,"8x Amber Dial; 4x Eclipse Shell; 8x Solar Needle",32,"{\"Nulltide Lantern\":8}","8x Amber Dial; 4x Eclipse Shell; 8x Nulltide Lantern; 8x Solar Needle",0,0,true
+182,"5x Lunar Fuse; 8x Sunwire Prism; 8x Void Bloom",-13,"{\"Helioforge Key\":1,\"Solar Needle\":3}","1x Helioforge Key; 5x Lunar Fuse; 3x Solar Needle; 8x Sunwire Prism; 8x Void Bloom",0,0,true
+186,"6x Nightseed Engine; 3x Nulltide Lantern; 5x Wire Orchid",-24,"{\"Helioforge Key\":6}","6x Helioforge Key; 6x Nightseed Engine; 3x Nulltide Lantern; 5x Wire Orchid",0,0,true
+187,"11x Amber Dial; 7x Iron Root; 8x Silver Ash",11,"{\"Nulltide Lantern\":2,\"Moon Glass\":1}","11x Amber Dial; 7x Iron Root; 1x Moon Glass; 2x Nulltide Lantern; 8x Silver Ash",0,0,true
+188,"8x Nightseed Engine; 7x Silver Ash; 4x Void Bloom",-28,"{\"Helioforge Key\":7}","7x Helioforge Key; 8x Nightseed Engine; 7x Silver Ash; 4x Void Bloom",0,0,true
+190,"4x Amber Dial; 3x Moon Glass",-5,"{\"Amber Dial\":5}","9x Amber Dial; 3x Moon Glass",0,0,true
+191,"7x Auric Feather; 8x Nulltide Lantern; 8x Silver Ash; 4x Wire Orchid",-18,"{\"Solar Needle\":6}","7x Auric Feather; 8x Nulltide Lantern; 8x Silver Ash; 6x Solar Needle; 4x Wire Orchid",0,0,true
+192,"5x Glass Moth; 6x Iron Root; 8x Nulltide Lantern; 6x Solar Needle",-24,"{\"Helioforge Key\":6}","5x Glass Moth; 6x Helioforge Key; 6x Iron Root; 8x Nulltide Lantern; 6x Solar Needle",0,0,true

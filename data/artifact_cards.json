@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Helioforge Key",
+    "attributes": [
+      "sunlit",
+      "iron",
+      "electric",
+      "red"
+    ],
+    "hiddenCharge": 4
+  },
+  {
+    "name": "Nulltide Lantern",
+    "attributes": [
+      "moonlit",
+      "glass",
+      "organic",
+      "blue"
+    ],
+    "hiddenCharge": -4
+  },
+  {
+    "name": "Solar Needle",
+    "attributes": [
+      "sunlit",
+      "electric",
+      "ancient"
+    ],
+    "hiddenCharge": 3
+  },
+  {
+    "name": "Moon Glass",
+    "attributes": [
+      "moonlit",
+      "glass",
+      "engraved"
+    ],
+    "hiddenCharge": -3
+  },
+  {
+    "name": "Spark Coin",
+    "attributes": [
+      "iron",
+      "electric",
+      "red"
+    ],
+    "hiddenCharge": 2
+  },
+  {
+    "name": "Glass Moth",
+    "attributes": [
+      "glass",
+      "organic",
+      "floating"
+    ],
+    "hiddenCharge": -2
+  },
+  {
+    "name": "Iron Root",
+    "attributes": [
+      "iron",
+      "organic",
+      "ancient"
+    ],
+    "hiddenCharge": 0
+  },
+  {
+    "name": "Eclipse Shell",
+    "attributes": [
+      "sunlit",
+      "moonlit",
+      "silent"
+    ],
+    "hiddenCharge": 0
+  },
+  {
+    "name": "Sunwire Prism",
+    "attributes": [
+      "sunlit",
+      "glass",
+      "electric",
+      "blue"
+    ],
+    "hiddenCharge": 2
+  },
+  {
+    "name": "Nightseed Engine",
+    "attributes": [
+      "moonlit",
+      "organic",
+      "iron",
+      "red"
+    ],
+    "hiddenCharge": -2
+  },
+  {
+    "name": "Auric Feather",
+    "attributes": [
+      "sunlit",
+      "floating",
+      "engraved"
+    ],
+    "hiddenCharge": 2
+  },
+  {
+    "name": "Void Bloom",
+    "attributes": [
+      "moonlit",
+      "organic",
+      "silent"
+    ],
+    "hiddenCharge": -3
+  },
+  {
+    "name": "Wire Orchid",
+    "attributes": [
+      "electric",
+      "organic",
+      "floating"
+    ],
+    "hiddenCharge": 0
+  },
+  {
+    "name": "Silver Ash",
+    "attributes": [
+      "iron",
+      "glass",
+      "ancient"
+    ],
+    "hiddenCharge": 0
+  },
+  {
+    "name": "Amber Dial",
+    "attributes": [
+      "sunlit",
+      "glass",
+      "red"
+    ],
+    "hiddenCharge": 1
+  },
+  {
+    "name": "Lunar Fuse",
+    "attributes": [
+      "moonlit",
+      "electric",
+      "blue"
+    ],
+    "hiddenCharge": -1
+  },
+  {
+    "name": "Daysteel Compass",
+    "attributes": [
+      "sunlit",
+      "iron",
+      "floating"
+    ],
+    "hiddenCharge": 3
+  },
+  {
+    "name": "Dreamglass Seed",
+    "attributes": [
+      "moonlit",
+      "glass",
+      "organic"
+    ],
+    "hiddenCharge": -4
+  },
+  {
+    "name": "Thunder Reed",
+    "attributes": [
+      "electric",
+      "organic",
+      "blue"
+    ],
+    "hiddenCharge": 0
+  },
+  {
+    "name": "Solar Thread",
+    "attributes": [
+      "sunlit",
+      "electric",
+      "engraved"
+    ],
+    "hiddenCharge": 3
+  },
+  {
+    "name": "Mist Mirror",
+    "attributes": [
+      "moonlit",
+      "glass",
+      "silent"
+    ],
+    "hiddenCharge": -3
+  },
+  {
+    "name": "Iron Ember",
+    "attributes": [
+      "iron",
+      "red",
+      "ancient"
+    ],
+    "hiddenCharge": 1
+  },
+  {
+    "name": "Glass Root",
+    "attributes": [
+      "glass",
+      "organic",
+      "floating"
+    ],
+    "hiddenCharge": -2
+  },
+  {
+    "name": "Bright Coil",
+    "attributes": [
+      "sunlit",
+      "iron",
+      "electric"
+    ],
+    "hiddenCharge": 4
+  },
+  {
+    "name": "Moon Orchid",
+    "attributes": [
+      "moonlit",
+      "organic",
+      "blue"
+    ],
+    "hiddenCharge": -3
+  },
+  {
+    "name": "Static Shell",
+    "attributes": [
+      "electric",
+      "glass",
+      "engraved"
+    ],
+    "hiddenCharge": 0
+  }
+]

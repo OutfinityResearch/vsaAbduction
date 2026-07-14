@@ -1,0 +1,4180 @@
+[
+  {
+    "id": 1,
+    "scene": {
+      "Silver Ash": 4
+    },
+    "signature": "4x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 4,
+      "glass": 4,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 4,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0001: The crew placed 4x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 2,
+    "scene": {
+      "Auric Feather": 1,
+      "Helioforge Key": 3,
+      "Iron Root": 3,
+      "Nulltide Lantern": 3,
+      "Glass Moth": 1
+    },
+    "signature": "1x Auric Feather; 1x Glass Moth; 3x Helioforge Key; 3x Iron Root; 3x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 3,
+      "iron": 6,
+      "glass": 4,
+      "electric": 3,
+      "organic": 7,
+      "red": 3,
+      "blue": 3,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0002: The crew placed 1x Auric Feather; 1x Glass Moth; 3x Helioforge Key; 3x Iron Root; 3x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 3,
+    "scene": {
+      "Silver Ash": 3,
+      "Iron Root": 2
+    },
+    "signature": "2x Iron Root; 3x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 3,
+      "electric": 0,
+      "organic": 2,
+      "red": 0,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0003: The crew placed 2x Iron Root; 3x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 4,
+    "scene": {
+      "Auric Feather": 2,
+      "Sunwire Prism": 2,
+      "Eclipse Shell": 1,
+      "Nulltide Lantern": 2,
+      "Silver Ash": 3
+    },
+    "signature": "2x Auric Feather; 1x Eclipse Shell; 2x Nulltide Lantern; 3x Silver Ash; 2x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 7,
+      "electric": 2,
+      "organic": 2,
+      "red": 0,
+      "blue": 4,
+      "ancient": 3,
+      "silent": 1,
+      "floating": 2,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0004: The crew placed 2x Auric Feather; 1x Eclipse Shell; 2x Nulltide Lantern; 3x Silver Ash; 2x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 5,
+    "scene": {
+      "Glass Moth": 3,
+      "Auric Feather": 3
+    },
+    "signature": "3x Auric Feather; 3x Glass Moth",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 3,
+      "electric": 0,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 6,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0005: The crew placed 3x Auric Feather; 3x Glass Moth in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 6,
+    "scene": {
+      "Nulltide Lantern": 3,
+      "Wire Orchid": 2,
+      "Helioforge Key": 3,
+      "Iron Root": 2,
+      "Silver Ash": 1
+    },
+    "signature": "3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern; 1x Silver Ash; 2x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 6,
+      "glass": 4,
+      "electric": 5,
+      "organic": 7,
+      "red": 3,
+      "blue": 3,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0006: The crew placed 3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern; 1x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 7,
+    "scene": {
+      "Nightseed Engine": 3,
+      "Wire Orchid": 1,
+      "Silver Ash": 3,
+      "Solar Needle": 2
+    },
+    "signature": "3x Nightseed Engine; 3x Silver Ash; 2x Solar Needle; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 3,
+      "iron": 6,
+      "glass": 3,
+      "electric": 3,
+      "organic": 4,
+      "red": 3,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0007: The crew placed 3x Nightseed Engine; 3x Silver Ash; 2x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 8,
+    "scene": {
+      "Moon Glass": 1,
+      "Amber Dial": 3
+    },
+    "signature": "3x Amber Dial; 1x Moon Glass",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 4,
+      "electric": 0,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0008: The crew placed 3x Amber Dial; 1x Moon Glass in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 9,
+    "scene": {
+      "Iron Root": 2,
+      "Nightseed Engine": 2,
+      "Sunwire Prism": 2
+    },
+    "signature": "2x Iron Root; 2x Nightseed Engine; 2x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 4,
+      "glass": 2,
+      "electric": 2,
+      "organic": 4,
+      "red": 2,
+      "blue": 2,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0009: The crew placed 2x Iron Root; 2x Nightseed Engine; 2x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 10,
+    "scene": {
+      "Sunwire Prism": 3,
+      "Glass Moth": 3
+    },
+    "signature": "3x Glass Moth; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 6,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0010: The crew placed 3x Glass Moth; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 11,
+    "scene": {
+      "Eclipse Shell": 1,
+      "Helioforge Key": 3,
+      "Void Bloom": 3,
+      "Moon Glass": 1
+    },
+    "signature": "1x Eclipse Shell; 3x Helioforge Key; 1x Moon Glass; 3x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 5,
+      "iron": 3,
+      "glass": 1,
+      "electric": 3,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 4,
+      "floating": 0,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0011: The crew placed 1x Eclipse Shell; 3x Helioforge Key; 1x Moon Glass; 3x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 12,
+    "scene": {
+      "Wire Orchid": 1,
+      "Eclipse Shell": 3
+    },
+    "signature": "3x Eclipse Shell; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 0,
+      "electric": 1,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0012: The crew placed 3x Eclipse Shell; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 13,
+    "scene": {
+      "Amber Dial": 1,
+      "Lunar Fuse": 1,
+      "Eclipse Shell": 2
+    },
+    "signature": "1x Amber Dial; 2x Eclipse Shell; 1x Lunar Fuse",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 1,
+      "electric": 1,
+      "organic": 0,
+      "red": 1,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0013: The crew placed 1x Amber Dial; 2x Eclipse Shell; 1x Lunar Fuse in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 14,
+    "scene": {
+      "Helioforge Key": 2,
+      "Glass Moth": 1,
+      "Nightseed Engine": 3,
+      "Auric Feather": 2,
+      "Nulltide Lantern": 1
+    },
+    "signature": "2x Auric Feather; 1x Glass Moth; 2x Helioforge Key; 3x Nightseed Engine; 1x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 4,
+      "iron": 5,
+      "glass": 2,
+      "electric": 2,
+      "organic": 5,
+      "red": 5,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0014: The crew placed 2x Auric Feather; 1x Glass Moth; 2x Helioforge Key; 3x Nightseed Engine; 1x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 15,
+    "scene": {
+      "Nulltide Lantern": 1,
+      "Helioforge Key": 1,
+      "Iron Root": 1,
+      "Eclipse Shell": 2
+    },
+    "signature": "2x Eclipse Shell; 1x Helioforge Key; 1x Iron Root; 1x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 2,
+      "glass": 1,
+      "electric": 1,
+      "organic": 2,
+      "red": 1,
+      "blue": 1,
+      "ancient": 1,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0015: The crew placed 2x Eclipse Shell; 1x Helioforge Key; 1x Iron Root; 1x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 16,
+    "scene": {
+      "Iron Root": 1,
+      "Silver Ash": 1
+    },
+    "signature": "1x Iron Root; 1x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 1,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0016: The crew placed 1x Iron Root; 1x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 17,
+    "scene": {
+      "Glass Moth": 3,
+      "Spark Coin": 3
+    },
+    "signature": "3x Glass Moth; 3x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 3,
+      "electric": 3,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0017: The crew placed 3x Glass Moth; 3x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 18,
+    "scene": {
+      "Void Bloom": 1,
+      "Solar Needle": 3,
+      "Moon Glass": 2
+    },
+    "signature": "2x Moon Glass; 3x Solar Needle; 1x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 2,
+      "electric": 3,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0018: The crew placed 2x Moon Glass; 3x Solar Needle; 1x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 19,
+    "scene": {
+      "Eclipse Shell": 6,
+      "Iron Root": 3,
+      "Wire Orchid": 1
+    },
+    "signature": "6x Eclipse Shell; 3x Iron Root; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 6,
+      "iron": 3,
+      "glass": 0,
+      "electric": 1,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 6,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0019: The crew placed 6x Eclipse Shell; 3x Iron Root; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 20,
+    "scene": {
+      "Sunwire Prism": 3,
+      "Glass Moth": 3,
+      "Iron Root": 2
+    },
+    "signature": "3x Glass Moth; 2x Iron Root; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 6,
+      "electric": 3,
+      "organic": 5,
+      "red": 0,
+      "blue": 3,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0020: The crew placed 3x Glass Moth; 2x Iron Root; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 21,
+    "scene": {
+      "Eclipse Shell": 1,
+      "Wire Orchid": 3
+    },
+    "signature": "1x Eclipse Shell; 3x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 0,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0021: The crew placed 1x Eclipse Shell; 3x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 22,
+    "scene": {
+      "Silver Ash": 2,
+      "Wire Orchid": 3,
+      "Eclipse Shell": 4
+    },
+    "signature": "4x Eclipse Shell; 2x Silver Ash; 3x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 4,
+      "iron": 2,
+      "glass": 2,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 4,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0022: The crew placed 4x Eclipse Shell; 2x Silver Ash; 3x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 23,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Glass Moth": 1,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 3x Eclipse Shell; 1x Glass Moth",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 3,
+      "electric": 0,
+      "organic": 1,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0023: The crew placed 2x Amber Dial; 3x Eclipse Shell; 1x Glass Moth in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 24,
+    "scene": {
+      "Iron Root": 2,
+      "Eclipse Shell": 2
+    },
+    "signature": "2x Eclipse Shell; 2x Iron Root",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 0,
+      "electric": 0,
+      "organic": 2,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0024: The crew placed 2x Eclipse Shell; 2x Iron Root in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 25,
+    "scene": {
+      "Iron Root": 3,
+      "Solar Needle": 3,
+      "Void Bloom": 3
+    },
+    "signature": "3x Iron Root; 3x Solar Needle; 3x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 0,
+      "electric": 3,
+      "organic": 6,
+      "red": 0,
+      "blue": 0,
+      "ancient": 6,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0025: The crew placed 3x Iron Root; 3x Solar Needle; 3x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 26,
+    "scene": {
+      "Iron Root": 1,
+      "Auric Feather": 1,
+      "Spark Coin": 1,
+      "Nulltide Lantern": 1
+    },
+    "signature": "1x Auric Feather; 1x Iron Root; 1x Nulltide Lantern; 1x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 1,
+      "electric": 1,
+      "organic": 2,
+      "red": 1,
+      "blue": 1,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0026: The crew placed 1x Auric Feather; 1x Iron Root; 1x Nulltide Lantern; 1x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 27,
+    "scene": {
+      "Wire Orchid": 2,
+      "Iron Root": 3
+    },
+    "signature": "3x Iron Root; 2x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 0,
+      "electric": 2,
+      "organic": 5,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0027: The crew placed 3x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 28,
+    "scene": {
+      "Wire Orchid": 2,
+      "Glass Moth": 1,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 1x Glass Moth; 2x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 3,
+      "electric": 2,
+      "organic": 3,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0028: The crew placed 2x Amber Dial; 1x Glass Moth; 2x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 29,
+    "scene": {
+      "Sunwire Prism": 1,
+      "Nightseed Engine": 1
+    },
+    "signature": "1x Nightseed Engine; 1x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 1,
+      "glass": 1,
+      "electric": 1,
+      "organic": 1,
+      "red": 1,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0029: The crew placed 1x Nightseed Engine; 1x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 30,
+    "scene": {
+      "Glass Moth": 1,
+      "Wire Orchid": 1,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 1x Glass Moth; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 3,
+      "electric": 1,
+      "organic": 2,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0030: The crew placed 2x Amber Dial; 1x Glass Moth; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 31,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Auric Feather": 3,
+      "Silver Ash": 2,
+      "Glass Moth": 3
+    },
+    "signature": "3x Auric Feather; 3x Eclipse Shell; 3x Glass Moth; 2x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 3,
+      "iron": 2,
+      "glass": 5,
+      "electric": 0,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 3,
+      "floating": 6,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0031: The crew placed 3x Auric Feather; 3x Eclipse Shell; 3x Glass Moth; 2x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 32,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Iron Root": 2,
+      "Silver Ash": 1,
+      "Nightseed Engine": 2,
+      "Sunwire Prism": 3
+    },
+    "signature": "2x Iron Root; 2x Lunar Fuse; 2x Nightseed Engine; 1x Silver Ash; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 4,
+      "iron": 5,
+      "glass": 4,
+      "electric": 5,
+      "organic": 4,
+      "red": 2,
+      "blue": 5,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0032: The crew placed 2x Iron Root; 2x Lunar Fuse; 2x Nightseed Engine; 1x Silver Ash; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 33,
+    "scene": {
+      "Glass Moth": 2,
+      "Helioforge Key": 3,
+      "Nulltide Lantern": 2
+    },
+    "signature": "2x Glass Moth; 3x Helioforge Key; 2x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 3,
+      "glass": 4,
+      "electric": 3,
+      "organic": 4,
+      "red": 3,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0033: The crew placed 2x Glass Moth; 3x Helioforge Key; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 34,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Eclipse Shell": 3,
+      "Auric Feather": 1
+    },
+    "signature": "1x Auric Feather; 3x Eclipse Shell; 2x Lunar Fuse",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 5,
+      "iron": 0,
+      "glass": 0,
+      "electric": 2,
+      "organic": 0,
+      "red": 0,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0034: The crew placed 1x Auric Feather; 3x Eclipse Shell; 2x Lunar Fuse in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 35,
+    "scene": {
+      "Silver Ash": 3,
+      "Wire Orchid": 5
+    },
+    "signature": "3x Silver Ash; 5x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 3,
+      "electric": 5,
+      "organic": 5,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 5,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0035: The crew placed 3x Silver Ash; 5x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 36,
+    "scene": {
+      "Nightseed Engine": 3,
+      "Wire Orchid": 1,
+      "Solar Needle": 2
+    },
+    "signature": "3x Nightseed Engine; 2x Solar Needle; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 0,
+      "electric": 3,
+      "organic": 4,
+      "red": 3,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0036: The crew placed 3x Nightseed Engine; 2x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 37,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Auric Feather": 1,
+      "Silver Ash": 3
+    },
+    "signature": "1x Auric Feather; 2x Lunar Fuse; 3x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 2,
+      "iron": 3,
+      "glass": 3,
+      "electric": 2,
+      "organic": 0,
+      "red": 0,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0037: The crew placed 1x Auric Feather; 2x Lunar Fuse; 3x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 38,
+    "scene": {
+      "Iron Root": 9,
+      "Silver Ash": 1
+    },
+    "signature": "9x Iron Root; 1x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 10,
+      "glass": 1,
+      "electric": 0,
+      "organic": 9,
+      "red": 0,
+      "blue": 0,
+      "ancient": 10,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0038: The crew placed 9x Iron Root; 1x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 39,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Silver Ash": 3
+    },
+    "signature": "3x Eclipse Shell; 3x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 3,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0039: The crew placed 3x Eclipse Shell; 3x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 40,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Nulltide Lantern": 3,
+      "Iron Root": 2,
+      "Helioforge Key": 3
+    },
+    "signature": "3x Eclipse Shell; 3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 6,
+      "iron": 5,
+      "glass": 3,
+      "electric": 3,
+      "organic": 5,
+      "red": 3,
+      "blue": 3,
+      "ancient": 2,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0040: The crew placed 3x Eclipse Shell; 3x Helioforge Key; 2x Iron Root; 3x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 41,
+    "scene": {
+      "Helioforge Key": 2,
+      "Nulltide Lantern": 2
+    },
+    "signature": "2x Helioforge Key; 2x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 2,
+      "electric": 2,
+      "organic": 2,
+      "red": 2,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0041: The crew placed 2x Helioforge Key; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 42,
+    "scene": {
+      "Void Bloom": 1,
+      "Amber Dial": 1,
+      "Auric Feather": 1
+    },
+    "signature": "1x Amber Dial; 1x Auric Feather; 1x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 1,
+      "electric": 0,
+      "organic": 1,
+      "red": 1,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0042: The crew placed 1x Amber Dial; 1x Auric Feather; 1x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 43,
+    "scene": {
+      "Helioforge Key": 1,
+      "Nulltide Lantern": 1,
+      "Silver Ash": 2
+    },
+    "signature": "1x Helioforge Key; 1x Nulltide Lantern; 2x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 3,
+      "glass": 3,
+      "electric": 1,
+      "organic": 1,
+      "red": 1,
+      "blue": 1,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0043: The crew placed 1x Helioforge Key; 1x Nulltide Lantern; 2x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 44,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Solar Needle": 3,
+      "Moon Glass": 1,
+      "Auric Feather": 3,
+      "Nulltide Lantern": 3
+    },
+    "signature": "3x Auric Feather; 3x Eclipse Shell; 1x Moon Glass; 3x Nulltide Lantern; 3x Solar Needle",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 9,
+      "moonlit": 7,
+      "iron": 0,
+      "glass": 4,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 3,
+      "ancient": 3,
+      "silent": 3,
+      "floating": 3,
+      "engraved": 4
+    },
+    "text": "Eos Gate Log 0044: The crew placed 3x Auric Feather; 3x Eclipse Shell; 1x Moon Glass; 3x Nulltide Lantern; 3x Solar Needle in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 45,
+    "scene": {
+      "Silver Ash": 5,
+      "Nightseed Engine": 3,
+      "Eclipse Shell": 3,
+      "Auric Feather": 3
+    },
+    "signature": "3x Auric Feather; 3x Eclipse Shell; 3x Nightseed Engine; 5x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 6,
+      "iron": 8,
+      "glass": 5,
+      "electric": 0,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 3,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0045: The crew placed 3x Auric Feather; 3x Eclipse Shell; 3x Nightseed Engine; 5x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 46,
+    "scene": {
+      "Wire Orchid": 1,
+      "Nightseed Engine": 3,
+      "Sunwire Prism": 3
+    },
+    "signature": "3x Nightseed Engine; 3x Sunwire Prism; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 3,
+      "electric": 4,
+      "organic": 4,
+      "red": 3,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0046: The crew placed 3x Nightseed Engine; 3x Sunwire Prism; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 47,
+    "scene": {
+      "Void Bloom": 2,
+      "Iron Root": 2,
+      "Auric Feather": 3
+    },
+    "signature": "3x Auric Feather; 2x Iron Root; 2x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 0,
+      "electric": 0,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 2,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0047: The crew placed 3x Auric Feather; 2x Iron Root; 2x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 48,
+    "scene": {
+      "Silver Ash": 2,
+      "Spark Coin": 3,
+      "Moon Glass": 2,
+      "Eclipse Shell": 3
+    },
+    "signature": "3x Eclipse Shell; 2x Moon Glass; 2x Silver Ash; 3x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 5,
+      "iron": 5,
+      "glass": 4,
+      "electric": 3,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0048: The crew placed 3x Eclipse Shell; 2x Moon Glass; 2x Silver Ash; 3x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 49,
+    "scene": {
+      "Iron Root": 3,
+      "Glass Moth": 3,
+      "Solar Needle": 2
+    },
+    "signature": "3x Glass Moth; 3x Iron Root; 2x Solar Needle",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 3,
+      "electric": 2,
+      "organic": 6,
+      "red": 0,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0049: The crew placed 3x Glass Moth; 3x Iron Root; 2x Solar Needle in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 50,
+    "scene": {
+      "Moon Glass": 2,
+      "Sunwire Prism": 3
+    },
+    "signature": "2x Moon Glass; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 5,
+      "electric": 3,
+      "organic": 0,
+      "red": 0,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0050: The crew placed 2x Moon Glass; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 51,
+    "scene": {
+      "Nightseed Engine": 3,
+      "Solar Needle": 2
+    },
+    "signature": "3x Nightseed Engine; 2x Solar Needle",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 0,
+      "electric": 2,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0051: The crew placed 3x Nightseed Engine; 2x Solar Needle in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 52,
+    "scene": {
+      "Spark Coin": 1,
+      "Nightseed Engine": 1
+    },
+    "signature": "1x Nightseed Engine; 1x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 0,
+      "electric": 1,
+      "organic": 1,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0052: The crew placed 1x Nightseed Engine; 1x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 53,
+    "scene": {
+      "Silver Ash": 5
+    },
+    "signature": "5x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 5,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0053: The crew placed 5x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 54,
+    "scene": {
+      "Void Bloom": 4,
+      "Auric Feather": 6
+    },
+    "signature": "6x Auric Feather; 4x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 4,
+      "iron": 0,
+      "glass": 0,
+      "electric": 0,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 4,
+      "floating": 6,
+      "engraved": 6
+    },
+    "text": "Eos Gate Log 0054: The crew placed 6x Auric Feather; 4x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 55,
+    "scene": {
+      "Nulltide Lantern": 2,
+      "Auric Feather": 3,
+      "Iron Root": 3,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 3x Auric Feather; 3x Iron Root; 2x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 2,
+      "iron": 3,
+      "glass": 4,
+      "electric": 0,
+      "organic": 5,
+      "red": 2,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0055: The crew placed 2x Amber Dial; 3x Auric Feather; 3x Iron Root; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 56,
+    "scene": {
+      "Wire Orchid": 5,
+      "Nightseed Engine": 1,
+      "Spark Coin": 1
+    },
+    "signature": "1x Nightseed Engine; 1x Spark Coin; 5x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 0,
+      "electric": 6,
+      "organic": 6,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 5,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0056: The crew placed 1x Nightseed Engine; 1x Spark Coin; 5x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 57,
+    "scene": {
+      "Nulltide Lantern": 1,
+      "Sunwire Prism": 3,
+      "Nightseed Engine": 1,
+      "Iron Root": 1
+    },
+    "signature": "1x Iron Root; 1x Nightseed Engine; 1x Nulltide Lantern; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 4,
+      "electric": 3,
+      "organic": 3,
+      "red": 1,
+      "blue": 4,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0057: The crew placed 1x Iron Root; 1x Nightseed Engine; 1x Nulltide Lantern; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 58,
+    "scene": {
+      "Lunar Fuse": 1,
+      "Moon Glass": 1,
+      "Spark Coin": 2
+    },
+    "signature": "1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 1,
+      "electric": 3,
+      "organic": 0,
+      "red": 2,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0058: The crew placed 1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 59,
+    "scene": {
+      "Silver Ash": 2,
+      "Spark Coin": 3,
+      "Void Bloom": 3,
+      "Amber Dial": 3
+    },
+    "signature": "3x Amber Dial; 2x Silver Ash; 3x Spark Coin; 3x Void Bloom",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 5,
+      "glass": 5,
+      "electric": 3,
+      "organic": 3,
+      "red": 6,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0059: The crew placed 3x Amber Dial; 2x Silver Ash; 3x Spark Coin; 3x Void Bloom in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 60,
+    "scene": {
+      "Eclipse Shell": 3,
+      "Iron Root": 3
+    },
+    "signature": "3x Eclipse Shell; 3x Iron Root",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 0,
+      "electric": 0,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 3,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0060: The crew placed 3x Eclipse Shell; 3x Iron Root in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 61,
+    "scene": {
+      "Amber Dial": 2,
+      "Nulltide Lantern": 2,
+      "Auric Feather": 3
+    },
+    "signature": "2x Amber Dial; 3x Auric Feather; 2x Nulltide Lantern",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 4,
+      "electric": 0,
+      "organic": 2,
+      "red": 2,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0061: The crew placed 2x Amber Dial; 3x Auric Feather; 2x Nulltide Lantern in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 62,
+    "scene": {
+      "Wire Orchid": 1,
+      "Silver Ash": 1
+    },
+    "signature": "1x Silver Ash; 1x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 1,
+      "glass": 1,
+      "electric": 1,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0062: The crew placed 1x Silver Ash; 1x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 63,
+    "scene": {
+      "Wire Orchid": 2,
+      "Iron Root": 2
+    },
+    "signature": "2x Iron Root; 2x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 0,
+      "electric": 2,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0063: The crew placed 2x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 64,
+    "scene": {
+      "Moon Glass": 3,
+      "Sunwire Prism": 3,
+      "Eclipse Shell": 2,
+      "Amber Dial": 3
+    },
+    "signature": "3x Amber Dial; 2x Eclipse Shell; 3x Moon Glass; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 8,
+      "moonlit": 5,
+      "iron": 0,
+      "glass": 9,
+      "electric": 3,
+      "organic": 0,
+      "red": 3,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0064: The crew placed 3x Amber Dial; 2x Eclipse Shell; 3x Moon Glass; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 65,
+    "scene": {
+      "Solar Needle": 3,
+      "Moon Glass": 3
+    },
+    "signature": "3x Moon Glass; 3x Solar Needle",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 3,
+      "electric": 3,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0065: The crew placed 3x Moon Glass; 3x Solar Needle in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 66,
+    "scene": {
+      "Sunwire Prism": 3,
+      "Nightseed Engine": 2,
+      "Glass Moth": 1
+    },
+    "signature": "1x Glass Moth; 2x Nightseed Engine; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 4,
+      "electric": 3,
+      "organic": 3,
+      "red": 2,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0066: The crew placed 1x Glass Moth; 2x Nightseed Engine; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 67,
+    "scene": {
+      "Moon Glass": 1,
+      "Iron Root": 2,
+      "Spark Coin": 2,
+      "Lunar Fuse": 1
+    },
+    "signature": "2x Iron Root; 1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 2,
+      "iron": 4,
+      "glass": 1,
+      "electric": 3,
+      "organic": 2,
+      "red": 2,
+      "blue": 1,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0067: The crew placed 2x Iron Root; 1x Lunar Fuse; 1x Moon Glass; 2x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 68,
+    "scene": {
+      "Amber Dial": 2,
+      "Iron Root": 1,
+      "Wire Orchid": 2,
+      "Lunar Fuse": 2,
+      "Silver Ash": 2
+    },
+    "signature": "2x Amber Dial; 1x Iron Root; 2x Lunar Fuse; 2x Silver Ash; 2x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 3,
+      "glass": 4,
+      "electric": 4,
+      "organic": 3,
+      "red": 2,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0068: The crew placed 2x Amber Dial; 1x Iron Root; 2x Lunar Fuse; 2x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 69,
+    "scene": {
+      "Silver Ash": 2,
+      "Iron Root": 1
+    },
+    "signature": "1x Iron Root; 2x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 2,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0069: The crew placed 1x Iron Root; 2x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 70,
+    "scene": {
+      "Moon Glass": 3,
+      "Wire Orchid": 3,
+      "Lunar Fuse": 3,
+      "Helioforge Key": 3
+    },
+    "signature": "3x Helioforge Key; 3x Lunar Fuse; 3x Moon Glass; 3x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 6,
+      "iron": 3,
+      "glass": 3,
+      "electric": 9,
+      "organic": 3,
+      "red": 3,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0070: The crew placed 3x Helioforge Key; 3x Lunar Fuse; 3x Moon Glass; 3x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 71,
+    "scene": {
+      "Wire Orchid": 3,
+      "Iron Root": 3
+    },
+    "signature": "3x Iron Root; 3x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 0,
+      "electric": 3,
+      "organic": 6,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0071: The crew placed 3x Iron Root; 3x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 72,
+    "scene": {
+      "Glass Moth": 1,
+      "Auric Feather": 1
+    },
+    "signature": "1x Auric Feather; 1x Glass Moth",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 1,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0072: The crew placed 1x Auric Feather; 1x Glass Moth in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 73,
+    "scene": {
+      "Iron Root": 1,
+      "Auric Feather": 1,
+      "Nightseed Engine": 1
+    },
+    "signature": "1x Auric Feather; 1x Iron Root; 1x Nightseed Engine",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 0,
+      "electric": 0,
+      "organic": 2,
+      "red": 1,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0073: The crew placed 1x Auric Feather; 1x Iron Root; 1x Nightseed Engine in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 74,
+    "scene": {
+      "Iron Root": 3,
+      "Wire Orchid": 3,
+      "Silver Ash": 1
+    },
+    "signature": "3x Iron Root; 1x Silver Ash; 3x Wire Orchid",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 4,
+      "glass": 1,
+      "electric": 3,
+      "organic": 6,
+      "red": 0,
+      "blue": 0,
+      "ancient": 4,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0074: The crew placed 3x Iron Root; 1x Silver Ash; 3x Wire Orchid in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 75,
+    "scene": {
+      "Spark Coin": 3,
+      "Glass Moth": 3,
+      "Eclipse Shell": 3
+    },
+    "signature": "3x Eclipse Shell; 3x Glass Moth; 3x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 3,
+      "electric": 3,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0075: The crew placed 3x Eclipse Shell; 3x Glass Moth; 3x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 76,
+    "scene": {
+      "Silver Ash": 1,
+      "Iron Root": 3,
+      "Spark Coin": 1,
+      "Lunar Fuse": 2
+    },
+    "signature": "3x Iron Root; 2x Lunar Fuse; 1x Silver Ash; 1x Spark Coin",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 2,
+      "iron": 5,
+      "glass": 1,
+      "electric": 3,
+      "organic": 3,
+      "red": 1,
+      "blue": 2,
+      "ancient": 4,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0076: The crew placed 3x Iron Root; 2x Lunar Fuse; 1x Silver Ash; 1x Spark Coin in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 77,
+    "scene": {
+      "Sunwire Prism": 3,
+      "Glass Moth": 3,
+      "Eclipse Shell": 3
+    },
+    "signature": "3x Eclipse Shell; 3x Glass Moth; 3x Sunwire Prism",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 6,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0077: The crew placed 3x Eclipse Shell; 3x Glass Moth; 3x Sunwire Prism in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 78,
+    "scene": {
+      "Iron Root": 5
+    },
+    "signature": "5x Iron Root",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 0,
+      "electric": 0,
+      "organic": 5,
+      "red": 0,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0078: The crew placed 5x Iron Root in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 79,
+    "scene": {
+      "Eclipse Shell": 2,
+      "Silver Ash": 2
+    },
+    "signature": "2x Eclipse Shell; 2x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 2,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0079: The crew placed 2x Eclipse Shell; 2x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 80,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Auric Feather": 1,
+      "Silver Ash": 2
+    },
+    "signature": "1x Auric Feather; 2x Lunar Fuse; 2x Silver Ash",
+    "outcome": "COHERENT",
+    "hiddenCharge": 0,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 2,
+      "electric": 2,
+      "organic": 0,
+      "red": 0,
+      "blue": 2,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0080: The crew placed 1x Auric Feather; 2x Lunar Fuse; 2x Silver Ash in the gate chamber. Outcome: COHERENT."
+  },
+  {
+    "id": 81,
+    "scene": {
+      "Moon Glass": 1,
+      "Auric Feather": 2
+    },
+    "signature": "2x Auric Feather; 1x Moon Glass",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 1,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 1,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0081: The crew placed 2x Auric Feather; 1x Moon Glass in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 82,
+    "scene": {
+      "Helioforge Key": 2,
+      "Lunar Fuse": 3,
+      "Nightseed Engine": 3,
+      "Nulltide Lantern": 3
+    },
+    "signature": "2x Helioforge Key; 3x Lunar Fuse; 3x Nightseed Engine; 3x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -13,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 9,
+      "iron": 5,
+      "glass": 3,
+      "electric": 5,
+      "organic": 6,
+      "red": 5,
+      "blue": 6,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0082: The crew placed 2x Helioforge Key; 3x Lunar Fuse; 3x Nightseed Engine; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 83,
+    "scene": {
+      "Helioforge Key": 1,
+      "Auric Feather": 2
+    },
+    "signature": "2x Auric Feather; 1x Helioforge Key",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 8,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 1,
+      "glass": 0,
+      "electric": 1,
+      "organic": 0,
+      "red": 1,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0083: The crew placed 2x Auric Feather; 1x Helioforge Key in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 84,
+    "scene": {
+      "Moon Glass": 3,
+      "Nulltide Lantern": 1,
+      "Eclipse Shell": 2,
+      "Iron Root": 1
+    },
+    "signature": "2x Eclipse Shell; 1x Iron Root; 3x Moon Glass; 1x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -13,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 6,
+      "iron": 1,
+      "glass": 4,
+      "electric": 0,
+      "organic": 2,
+      "red": 0,
+      "blue": 1,
+      "ancient": 1,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0084: The crew placed 2x Eclipse Shell; 1x Iron Root; 3x Moon Glass; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 85,
+    "scene": {
+      "Void Bloom": 1,
+      "Lunar Fuse": 3,
+      "Moon Glass": 2
+    },
+    "signature": "3x Lunar Fuse; 2x Moon Glass; 1x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -12,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 6,
+      "iron": 0,
+      "glass": 2,
+      "electric": 3,
+      "organic": 1,
+      "red": 0,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0085: The crew placed 3x Lunar Fuse; 2x Moon Glass; 1x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 86,
+    "scene": {
+      "Spark Coin": 1,
+      "Helioforge Key": 3,
+      "Lunar Fuse": 3
+    },
+    "signature": "3x Helioforge Key; 3x Lunar Fuse; 1x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 11,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 3,
+      "iron": 4,
+      "glass": 0,
+      "electric": 7,
+      "organic": 0,
+      "red": 4,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0086: The crew placed 3x Helioforge Key; 3x Lunar Fuse; 1x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 87,
+    "scene": {
+      "Nulltide Lantern": 2,
+      "Silver Ash": 1
+    },
+    "signature": "2x Nulltide Lantern; 1x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -8,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 2,
+      "iron": 1,
+      "glass": 3,
+      "electric": 0,
+      "organic": 2,
+      "red": 0,
+      "blue": 2,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0087: The crew placed 2x Nulltide Lantern; 1x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 88,
+    "scene": {
+      "Amber Dial": 4,
+      "Wire Orchid": 2
+    },
+    "signature": "4x Amber Dial; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 4,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 4,
+      "electric": 2,
+      "organic": 2,
+      "red": 4,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0088: The crew placed 4x Amber Dial; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 89,
+    "scene": {
+      "Wire Orchid": 4,
+      "Void Bloom": 1,
+      "Silver Ash": 2,
+      "Glass Moth": 1
+    },
+    "signature": "1x Glass Moth; 2x Silver Ash; 1x Void Bloom; 4x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -5,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 3,
+      "electric": 4,
+      "organic": 6,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 1,
+      "floating": 5,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0089: The crew placed 1x Glass Moth; 2x Silver Ash; 1x Void Bloom; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 90,
+    "scene": {
+      "Sunwire Prism": 1,
+      "Glass Moth": 3,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 3x Glass Moth; 1x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -2,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 6,
+      "electric": 1,
+      "organic": 3,
+      "red": 2,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0090: The crew placed 2x Amber Dial; 3x Glass Moth; 1x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 91,
+    "scene": {
+      "Eclipse Shell": 1,
+      "Solar Needle": 2,
+      "Lunar Fuse": 1
+    },
+    "signature": "1x Eclipse Shell; 1x Lunar Fuse; 2x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 0,
+      "electric": 3,
+      "organic": 0,
+      "red": 0,
+      "blue": 1,
+      "ancient": 2,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0091: The crew placed 1x Eclipse Shell; 1x Lunar Fuse; 2x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 92,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Spark Coin": 1,
+      "Helioforge Key": 1,
+      "Wire Orchid": 2
+    },
+    "signature": "1x Helioforge Key; 2x Lunar Fuse; 1x Spark Coin; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 4,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 2,
+      "iron": 2,
+      "glass": 0,
+      "electric": 6,
+      "organic": 2,
+      "red": 2,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0092: The crew placed 1x Helioforge Key; 2x Lunar Fuse; 1x Spark Coin; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 93,
+    "scene": {
+      "Solar Needle": 3,
+      "Wire Orchid": 4
+    },
+    "signature": "3x Solar Needle; 4x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 9,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 0,
+      "electric": 7,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 4,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0093: The crew placed 3x Solar Needle; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 94,
+    "scene": {
+      "Lunar Fuse": 2,
+      "Solar Needle": 3,
+      "Moon Glass": 2
+    },
+    "signature": "2x Lunar Fuse; 2x Moon Glass; 3x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 1,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 4,
+      "iron": 0,
+      "glass": 2,
+      "electric": 5,
+      "organic": 0,
+      "red": 0,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0094: The crew placed 2x Lunar Fuse; 2x Moon Glass; 3x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 95,
+    "scene": {
+      "Auric Feather": 3,
+      "Eclipse Shell": 2,
+      "Moon Glass": 1
+    },
+    "signature": "3x Auric Feather; 2x Eclipse Shell; 1x Moon Glass",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 3,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 1,
+      "electric": 0,
+      "organic": 0,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 3,
+      "engraved": 4
+    },
+    "text": "Eos Gate Log 0095: The crew placed 3x Auric Feather; 2x Eclipse Shell; 1x Moon Glass in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 96,
+    "scene": {
+      "Wire Orchid": 1,
+      "Eclipse Shell": 2,
+      "Moon Glass": 2,
+      "Glass Moth": 3
+    },
+    "signature": "2x Eclipse Shell; 3x Glass Moth; 2x Moon Glass; 1x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -12,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 4,
+      "iron": 0,
+      "glass": 5,
+      "electric": 1,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 4,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0096: The crew placed 2x Eclipse Shell; 3x Glass Moth; 2x Moon Glass; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 97,
+    "scene": {
+      "Silver Ash": 2,
+      "Auric Feather": 1,
+      "Spark Coin": 3
+    },
+    "signature": "1x Auric Feather; 2x Silver Ash; 3x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 8,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 2,
+      "electric": 3,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0097: The crew placed 1x Auric Feather; 2x Silver Ash; 3x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 98,
+    "scene": {
+      "Iron Root": 1,
+      "Silver Ash": 1,
+      "Auric Feather": 1
+    },
+    "signature": "1x Auric Feather; 1x Iron Root; 1x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 1,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0098: The crew placed 1x Auric Feather; 1x Iron Root; 1x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 99,
+    "scene": {
+      "Silver Ash": 1,
+      "Helioforge Key": 3,
+      "Eclipse Shell": 1
+    },
+    "signature": "1x Eclipse Shell; 3x Helioforge Key; 1x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 12,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 1,
+      "iron": 4,
+      "glass": 1,
+      "electric": 3,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0099: The crew placed 1x Eclipse Shell; 3x Helioforge Key; 1x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 100,
+    "scene": {
+      "Glass Moth": 1,
+      "Iron Root": 1,
+      "Nulltide Lantern": 1
+    },
+    "signature": "1x Glass Moth; 1x Iron Root; 1x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -6,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 1,
+      "glass": 2,
+      "electric": 0,
+      "organic": 3,
+      "red": 0,
+      "blue": 1,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0100: The crew placed 1x Glass Moth; 1x Iron Root; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 101,
+    "scene": {
+      "Moon Glass": 1,
+      "Glass Moth": 3
+    },
+    "signature": "3x Glass Moth; 1x Moon Glass",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -9,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 4,
+      "electric": 0,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0101: The crew placed 3x Glass Moth; 1x Moon Glass in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 102,
+    "scene": {
+      "Nightseed Engine": 1,
+      "Sunwire Prism": 2,
+      "Silver Ash": 2
+    },
+    "signature": "1x Nightseed Engine; 2x Silver Ash; 2x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 3,
+      "glass": 4,
+      "electric": 2,
+      "organic": 1,
+      "red": 1,
+      "blue": 2,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0102: The crew placed 1x Nightseed Engine; 2x Silver Ash; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 103,
+    "scene": {
+      "Spark Coin": 2,
+      "Silver Ash": 1,
+      "Void Bloom": 2,
+      "Moon Glass": 2,
+      "Glass Moth": 1
+    },
+    "signature": "1x Glass Moth; 2x Moon Glass; 1x Silver Ash; 2x Spark Coin; 2x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -10,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 4,
+      "iron": 3,
+      "glass": 4,
+      "electric": 2,
+      "organic": 3,
+      "red": 2,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 2,
+      "floating": 1,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0103: The crew placed 1x Glass Moth; 2x Moon Glass; 1x Silver Ash; 2x Spark Coin; 2x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 104,
+    "scene": {
+      "Auric Feather": 3,
+      "Void Bloom": 1
+    },
+    "signature": "3x Auric Feather; 1x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 3,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 0,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0104: The crew placed 3x Auric Feather; 1x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 105,
+    "scene": {
+      "Helioforge Key": 1,
+      "Spark Coin": 2,
+      "Glass Moth": 3,
+      "Silver Ash": 2
+    },
+    "signature": "3x Glass Moth; 1x Helioforge Key; 2x Silver Ash; 2x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 5,
+      "electric": 3,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0105: The crew placed 3x Glass Moth; 1x Helioforge Key; 2x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 106,
+    "scene": {
+      "Helioforge Key": 1,
+      "Amber Dial": 3,
+      "Eclipse Shell": 3,
+      "Silver Ash": 3,
+      "Glass Moth": 1
+    },
+    "signature": "3x Amber Dial; 3x Eclipse Shell; 1x Glass Moth; 1x Helioforge Key; 3x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 7,
+      "moonlit": 3,
+      "iron": 4,
+      "glass": 7,
+      "electric": 1,
+      "organic": 1,
+      "red": 4,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 3,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0106: The crew placed 3x Amber Dial; 3x Eclipse Shell; 1x Glass Moth; 1x Helioforge Key; 3x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 107,
+    "scene": {
+      "Moon Glass": 3,
+      "Lunar Fuse": 2,
+      "Sunwire Prism": 2,
+      "Nulltide Lantern": 1,
+      "Glass Moth": 3
+    },
+    "signature": "3x Glass Moth; 2x Lunar Fuse; 3x Moon Glass; 1x Nulltide Lantern; 2x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -17,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 6,
+      "iron": 0,
+      "glass": 9,
+      "electric": 4,
+      "organic": 4,
+      "red": 0,
+      "blue": 5,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0107: The crew placed 3x Glass Moth; 2x Lunar Fuse; 3x Moon Glass; 1x Nulltide Lantern; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 108,
+    "scene": {
+      "Nightseed Engine": 1,
+      "Nulltide Lantern": 5,
+      "Helioforge Key": 3,
+      "Sunwire Prism": 2
+    },
+    "signature": "3x Helioforge Key; 1x Nightseed Engine; 5x Nulltide Lantern; 2x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -6,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 6,
+      "iron": 4,
+      "glass": 7,
+      "electric": 5,
+      "organic": 6,
+      "red": 4,
+      "blue": 7,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0108: The crew placed 3x Helioforge Key; 1x Nightseed Engine; 5x Nulltide Lantern; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 109,
+    "scene": {
+      "Glass Moth": 3,
+      "Nulltide Lantern": 1,
+      "Eclipse Shell": 3,
+      "Void Bloom": 2
+    },
+    "signature": "3x Eclipse Shell; 3x Glass Moth; 1x Nulltide Lantern; 2x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -16,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 6,
+      "iron": 0,
+      "glass": 4,
+      "electric": 0,
+      "organic": 6,
+      "red": 0,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 5,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0109: The crew placed 3x Eclipse Shell; 3x Glass Moth; 1x Nulltide Lantern; 2x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 110,
+    "scene": {
+      "Nightseed Engine": 3,
+      "Moon Glass": 3,
+      "Nulltide Lantern": 2,
+      "Void Bloom": 2,
+      "Amber Dial": 1
+    },
+    "signature": "1x Amber Dial; 3x Moon Glass; 3x Nightseed Engine; 2x Nulltide Lantern; 2x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -28,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 10,
+      "iron": 3,
+      "glass": 6,
+      "electric": 0,
+      "organic": 7,
+      "red": 4,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0110: The crew placed 1x Amber Dial; 3x Moon Glass; 3x Nightseed Engine; 2x Nulltide Lantern; 2x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 111,
+    "scene": {
+      "Auric Feather": 2,
+      "Eclipse Shell": 3,
+      "Lunar Fuse": 3,
+      "Nulltide Lantern": 3
+    },
+    "signature": "2x Auric Feather; 3x Eclipse Shell; 3x Lunar Fuse; 3x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -11,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 9,
+      "iron": 0,
+      "glass": 3,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 6,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 2,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0111: The crew placed 2x Auric Feather; 3x Eclipse Shell; 3x Lunar Fuse; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 112,
+    "scene": {
+      "Solar Needle": 1,
+      "Lunar Fuse": 2
+    },
+    "signature": "2x Lunar Fuse; 1x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 1,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 0,
+      "electric": 3,
+      "organic": 0,
+      "red": 0,
+      "blue": 2,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0112: The crew placed 2x Lunar Fuse; 1x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 113,
+    "scene": {
+      "Nulltide Lantern": 1,
+      "Auric Feather": 1
+    },
+    "signature": "1x Auric Feather; 1x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -2,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 1,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0113: The crew placed 1x Auric Feather; 1x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 114,
+    "scene": {
+      "Void Bloom": 2,
+      "Sunwire Prism": 2
+    },
+    "signature": "2x Sunwire Prism; 2x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -2,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 2,
+      "electric": 2,
+      "organic": 2,
+      "red": 0,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0114: The crew placed 2x Sunwire Prism; 2x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 115,
+    "scene": {
+      "Lunar Fuse": 3,
+      "Wire Orchid": 1,
+      "Glass Moth": 2,
+      "Nightseed Engine": 3
+    },
+    "signature": "2x Glass Moth; 3x Lunar Fuse; 3x Nightseed Engine; 1x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -13,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 6,
+      "iron": 3,
+      "glass": 2,
+      "electric": 4,
+      "organic": 6,
+      "red": 3,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0115: The crew placed 2x Glass Moth; 3x Lunar Fuse; 3x Nightseed Engine; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 116,
+    "scene": {
+      "Nightseed Engine": 2,
+      "Silver Ash": 2,
+      "Moon Glass": 3,
+      "Glass Moth": 1
+    },
+    "signature": "1x Glass Moth; 3x Moon Glass; 2x Nightseed Engine; 2x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -15,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 5,
+      "iron": 4,
+      "glass": 6,
+      "electric": 0,
+      "organic": 3,
+      "red": 2,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0116: The crew placed 1x Glass Moth; 3x Moon Glass; 2x Nightseed Engine; 2x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 117,
+    "scene": {
+      "Solar Needle": 3,
+      "Glass Moth": 3,
+      "Silver Ash": 2
+    },
+    "signature": "3x Glass Moth; 2x Silver Ash; 3x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 3,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 5,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0117: The crew placed 3x Glass Moth; 2x Silver Ash; 3x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 118,
+    "scene": {
+      "Iron Root": 2,
+      "Auric Feather": 1,
+      "Nulltide Lantern": 3,
+      "Lunar Fuse": 2
+    },
+    "signature": "1x Auric Feather; 2x Iron Root; 2x Lunar Fuse; 3x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -12,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 5,
+      "iron": 2,
+      "glass": 3,
+      "electric": 2,
+      "organic": 5,
+      "red": 0,
+      "blue": 5,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0118: The crew placed 1x Auric Feather; 2x Iron Root; 2x Lunar Fuse; 3x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 119,
+    "scene": {
+      "Spark Coin": 2,
+      "Silver Ash": 3,
+      "Moon Glass": 2,
+      "Lunar Fuse": 2,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 2x Lunar Fuse; 2x Moon Glass; 3x Silver Ash; 2x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -2,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 4,
+      "iron": 5,
+      "glass": 7,
+      "electric": 4,
+      "organic": 0,
+      "red": 4,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0119: The crew placed 2x Amber Dial; 2x Lunar Fuse; 2x Moon Glass; 3x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 120,
+    "scene": {
+      "Nulltide Lantern": 3,
+      "Moon Glass": 1,
+      "Lunar Fuse": 2,
+      "Void Bloom": 3,
+      "Eclipse Shell": 2
+    },
+    "signature": "2x Eclipse Shell; 2x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 3x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -26,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 11,
+      "iron": 0,
+      "glass": 4,
+      "electric": 2,
+      "organic": 6,
+      "red": 0,
+      "blue": 5,
+      "ancient": 0,
+      "silent": 5,
+      "floating": 0,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0120: The crew placed 2x Eclipse Shell; 2x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 3x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 121,
+    "scene": {
+      "Helioforge Key": 2,
+      "Amber Dial": 2,
+      "Sunwire Prism": 2
+    },
+    "signature": "2x Amber Dial; 2x Helioforge Key; 2x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 14,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 0,
+      "iron": 2,
+      "glass": 4,
+      "electric": 4,
+      "organic": 0,
+      "red": 4,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0121: The crew placed 2x Amber Dial; 2x Helioforge Key; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 122,
+    "scene": {
+      "Glass Moth": 2,
+      "Auric Feather": 4,
+      "Eclipse Shell": 2
+    },
+    "signature": "4x Auric Feather; 2x Eclipse Shell; 2x Glass Moth",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 4,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 2,
+      "iron": 0,
+      "glass": 2,
+      "electric": 0,
+      "organic": 2,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 6,
+      "engraved": 4
+    },
+    "text": "Eos Gate Log 0122: The crew placed 4x Auric Feather; 2x Eclipse Shell; 2x Glass Moth in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 123,
+    "scene": {
+      "Eclipse Shell": 1,
+      "Nightseed Engine": 2,
+      "Moon Glass": 3
+    },
+    "signature": "1x Eclipse Shell; 3x Moon Glass; 2x Nightseed Engine",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -13,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 6,
+      "iron": 2,
+      "glass": 3,
+      "electric": 0,
+      "organic": 2,
+      "red": 2,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0123: The crew placed 1x Eclipse Shell; 3x Moon Glass; 2x Nightseed Engine in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 124,
+    "scene": {
+      "Solar Needle": 1,
+      "Spark Coin": 1
+    },
+    "signature": "1x Solar Needle; 1x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 1,
+      "glass": 0,
+      "electric": 2,
+      "organic": 0,
+      "red": 1,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0124: The crew placed 1x Solar Needle; 1x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 125,
+    "scene": {
+      "Eclipse Shell": 1,
+      "Amber Dial": 2,
+      "Silver Ash": 2
+    },
+    "signature": "2x Amber Dial; 1x Eclipse Shell; 2x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 1,
+      "iron": 2,
+      "glass": 4,
+      "electric": 0,
+      "organic": 0,
+      "red": 2,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0125: The crew placed 2x Amber Dial; 1x Eclipse Shell; 2x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 126,
+    "scene": {
+      "Spark Coin": 1,
+      "Silver Ash": 3,
+      "Helioforge Key": 3,
+      "Glass Moth": 2
+    },
+    "signature": "2x Glass Moth; 3x Helioforge Key; 3x Silver Ash; 1x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 10,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 7,
+      "glass": 5,
+      "electric": 4,
+      "organic": 2,
+      "red": 4,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0126: The crew placed 2x Glass Moth; 3x Helioforge Key; 3x Silver Ash; 1x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 127,
+    "scene": {
+      "Solar Needle": 4,
+      "Nulltide Lantern": 1,
+      "Wire Orchid": 1,
+      "Glass Moth": 3
+    },
+    "signature": "3x Glass Moth; 1x Nulltide Lantern; 4x Solar Needle; 1x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 1,
+      "iron": 0,
+      "glass": 4,
+      "electric": 5,
+      "organic": 5,
+      "red": 0,
+      "blue": 1,
+      "ancient": 4,
+      "silent": 0,
+      "floating": 4,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0127: The crew placed 3x Glass Moth; 1x Nulltide Lantern; 4x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 128,
+    "scene": {
+      "Glass Moth": 1,
+      "Helioforge Key": 5
+    },
+    "signature": "1x Glass Moth; 5x Helioforge Key",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 18,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 1,
+      "electric": 5,
+      "organic": 1,
+      "red": 5,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0128: The crew placed 1x Glass Moth; 5x Helioforge Key in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 129,
+    "scene": {
+      "Glass Moth": 3,
+      "Lunar Fuse": 3
+    },
+    "signature": "3x Glass Moth; 3x Lunar Fuse",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -9,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 3,
+      "iron": 0,
+      "glass": 3,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0129: The crew placed 3x Glass Moth; 3x Lunar Fuse in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 130,
+    "scene": {
+      "Nightseed Engine": 1,
+      "Helioforge Key": 2
+    },
+    "signature": "2x Helioforge Key; 1x Nightseed Engine",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 6,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 3,
+      "glass": 0,
+      "electric": 2,
+      "organic": 1,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0130: The crew placed 2x Helioforge Key; 1x Nightseed Engine in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 131,
+    "scene": {
+      "Amber Dial": 3,
+      "Silver Ash": 3
+    },
+    "signature": "3x Amber Dial; 3x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 3,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 6,
+      "electric": 0,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0131: The crew placed 3x Amber Dial; 3x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 132,
+    "scene": {
+      "Iron Root": 2,
+      "Amber Dial": 5,
+      "Wire Orchid": 2,
+      "Silver Ash": 3
+    },
+    "signature": "5x Amber Dial; 2x Iron Root; 3x Silver Ash; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 8,
+      "electric": 2,
+      "organic": 4,
+      "red": 5,
+      "blue": 0,
+      "ancient": 5,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0132: The crew placed 5x Amber Dial; 2x Iron Root; 3x Silver Ash; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 133,
+    "scene": {
+      "Wire Orchid": 1,
+      "Auric Feather": 1,
+      "Nightseed Engine": 1,
+      "Solar Needle": 3,
+      "Nulltide Lantern": 3
+    },
+    "signature": "1x Auric Feather; 1x Nightseed Engine; 3x Nulltide Lantern; 3x Solar Needle; 1x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -3,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 4,
+      "iron": 1,
+      "glass": 3,
+      "electric": 4,
+      "organic": 5,
+      "red": 1,
+      "blue": 3,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0133: The crew placed 1x Auric Feather; 1x Nightseed Engine; 3x Nulltide Lantern; 3x Solar Needle; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 134,
+    "scene": {
+      "Amber Dial": 2,
+      "Solar Needle": 1,
+      "Iron Root": 1
+    },
+    "signature": "2x Amber Dial; 1x Iron Root; 1x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 0,
+      "iron": 1,
+      "glass": 2,
+      "electric": 1,
+      "organic": 1,
+      "red": 2,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0134: The crew placed 2x Amber Dial; 1x Iron Root; 1x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 135,
+    "scene": {
+      "Auric Feather": 2,
+      "Lunar Fuse": 3,
+      "Nulltide Lantern": 3,
+      "Silver Ash": 2,
+      "Moon Glass": 1
+    },
+    "signature": "2x Auric Feather; 3x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 2x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -14,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 7,
+      "iron": 2,
+      "glass": 6,
+      "electric": 3,
+      "organic": 3,
+      "red": 0,
+      "blue": 6,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0135: The crew placed 2x Auric Feather; 3x Lunar Fuse; 1x Moon Glass; 3x Nulltide Lantern; 2x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 136,
+    "scene": {
+      "Wire Orchid": 3,
+      "Iron Root": 3,
+      "Sunwire Prism": 3,
+      "Nulltide Lantern": 1
+    },
+    "signature": "3x Iron Root; 1x Nulltide Lantern; 3x Sunwire Prism; 3x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 1,
+      "iron": 3,
+      "glass": 4,
+      "electric": 6,
+      "organic": 7,
+      "red": 0,
+      "blue": 4,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0136: The crew placed 3x Iron Root; 1x Nulltide Lantern; 3x Sunwire Prism; 3x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 137,
+    "scene": {
+      "Amber Dial": 2,
+      "Helioforge Key": 3
+    },
+    "signature": "2x Amber Dial; 3x Helioforge Key",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 14,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 2,
+      "electric": 3,
+      "organic": 0,
+      "red": 5,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0137: The crew placed 2x Amber Dial; 3x Helioforge Key in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 138,
+    "scene": {
+      "Spark Coin": 3,
+      "Solar Needle": 3,
+      "Amber Dial": 1
+    },
+    "signature": "1x Amber Dial; 3x Solar Needle; 3x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 16,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 1,
+      "electric": 6,
+      "organic": 0,
+      "red": 4,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0138: The crew placed 1x Amber Dial; 3x Solar Needle; 3x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 139,
+    "scene": {
+      "Auric Feather": 2,
+      "Silver Ash": 3,
+      "Nightseed Engine": 1
+    },
+    "signature": "2x Auric Feather; 1x Nightseed Engine; 3x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 4,
+      "glass": 3,
+      "electric": 0,
+      "organic": 1,
+      "red": 1,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 2,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0139: The crew placed 2x Auric Feather; 1x Nightseed Engine; 3x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 140,
+    "scene": {
+      "Wire Orchid": 4,
+      "Amber Dial": 3,
+      "Sunwire Prism": 1
+    },
+    "signature": "3x Amber Dial; 1x Sunwire Prism; 4x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 5,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 4,
+      "electric": 5,
+      "organic": 4,
+      "red": 3,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 4,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0140: The crew placed 3x Amber Dial; 1x Sunwire Prism; 4x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 141,
+    "scene": {
+      "Moon Glass": 3,
+      "Auric Feather": 3,
+      "Nightseed Engine": 3
+    },
+    "signature": "3x Auric Feather; 3x Moon Glass; 3x Nightseed Engine",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -9,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 6,
+      "iron": 3,
+      "glass": 3,
+      "electric": 0,
+      "organic": 3,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 3,
+      "engraved": 6
+    },
+    "text": "Eos Gate Log 0141: The crew placed 3x Auric Feather; 3x Moon Glass; 3x Nightseed Engine in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 142,
+    "scene": {
+      "Silver Ash": 3,
+      "Helioforge Key": 3,
+      "Amber Dial": 4
+    },
+    "signature": "4x Amber Dial; 3x Helioforge Key; 3x Silver Ash",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 16,
+    "featureCounts": {
+      "sunlit": 7,
+      "moonlit": 0,
+      "iron": 6,
+      "glass": 7,
+      "electric": 3,
+      "organic": 0,
+      "red": 7,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0142: The crew placed 4x Amber Dial; 3x Helioforge Key; 3x Silver Ash in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 143,
+    "scene": {
+      "Auric Feather": 4,
+      "Iron Root": 1
+    },
+    "signature": "4x Auric Feather; 1x Iron Root",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 8,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 1,
+      "glass": 0,
+      "electric": 0,
+      "organic": 1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 4,
+      "engraved": 4
+    },
+    "text": "Eos Gate Log 0143: The crew placed 4x Auric Feather; 1x Iron Root in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 144,
+    "scene": {
+      "Iron Root": 3,
+      "Glass Moth": 1
+    },
+    "signature": "1x Glass Moth; 3x Iron Root",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -2,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 1,
+      "electric": 0,
+      "organic": 4,
+      "red": 0,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0144: The crew placed 1x Glass Moth; 3x Iron Root in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 145,
+    "scene": {
+      "Solar Needle": 2,
+      "Lunar Fuse": 3,
+      "Auric Feather": 1,
+      "Helioforge Key": 2
+    },
+    "signature": "1x Auric Feather; 2x Helioforge Key; 3x Lunar Fuse; 2x Solar Needle",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 13,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 3,
+      "iron": 2,
+      "glass": 0,
+      "electric": 7,
+      "organic": 0,
+      "red": 2,
+      "blue": 3,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0145: The crew placed 1x Auric Feather; 2x Helioforge Key; 3x Lunar Fuse; 2x Solar Needle in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 146,
+    "scene": {
+      "Amber Dial": 3,
+      "Spark Coin": 4,
+      "Helioforge Key": 2
+    },
+    "signature": "3x Amber Dial; 2x Helioforge Key; 4x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 19,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 0,
+      "iron": 6,
+      "glass": 3,
+      "electric": 6,
+      "organic": 0,
+      "red": 9,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0146: The crew placed 3x Amber Dial; 2x Helioforge Key; 4x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 147,
+    "scene": {
+      "Nightseed Engine": 3,
+      "Sunwire Prism": 3,
+      "Amber Dial": 1
+    },
+    "signature": "1x Amber Dial; 3x Nightseed Engine; 3x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 1,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 4,
+      "electric": 3,
+      "organic": 3,
+      "red": 4,
+      "blue": 3,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0147: The crew placed 1x Amber Dial; 3x Nightseed Engine; 3x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 148,
+    "scene": {
+      "Amber Dial": 2,
+      "Wire Orchid": 2,
+      "Iron Root": 3,
+      "Auric Feather": 2
+    },
+    "signature": "2x Amber Dial; 2x Auric Feather; 3x Iron Root; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 6,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 3,
+      "glass": 2,
+      "electric": 2,
+      "organic": 5,
+      "red": 2,
+      "blue": 0,
+      "ancient": 3,
+      "silent": 0,
+      "floating": 4,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0148: The crew placed 2x Amber Dial; 2x Auric Feather; 3x Iron Root; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 149,
+    "scene": {
+      "Sunwire Prism": 2,
+      "Amber Dial": 2
+    },
+    "signature": "2x Amber Dial; 2x Sunwire Prism",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 6,
+    "featureCounts": {
+      "sunlit": 4,
+      "moonlit": 0,
+      "iron": 0,
+      "glass": 4,
+      "electric": 2,
+      "organic": 0,
+      "red": 2,
+      "blue": 2,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0149: The crew placed 2x Amber Dial; 2x Sunwire Prism in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 150,
+    "scene": {
+      "Silver Ash": 2,
+      "Auric Feather": 1,
+      "Spark Coin": 2
+    },
+    "signature": "1x Auric Feather; 2x Silver Ash; 2x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 6,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 4,
+      "glass": 2,
+      "electric": 2,
+      "organic": 0,
+      "red": 2,
+      "blue": 0,
+      "ancient": 2,
+      "silent": 0,
+      "floating": 1,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0150: The crew placed 1x Auric Feather; 2x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 151,
+    "scene": {
+      "Void Bloom": 5,
+      "Helioforge Key": 2,
+      "Moon Glass": 3,
+      "Iron Root": 1
+    },
+    "signature": "2x Helioforge Key; 1x Iron Root; 3x Moon Glass; 5x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -16,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 8,
+      "iron": 3,
+      "glass": 3,
+      "electric": 2,
+      "organic": 6,
+      "red": 2,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 5,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0151: The crew placed 2x Helioforge Key; 1x Iron Root; 3x Moon Glass; 5x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 152,
+    "scene": {
+      "Auric Feather": 5,
+      "Spark Coin": 3,
+      "Moon Glass": 3
+    },
+    "signature": "5x Auric Feather; 3x Moon Glass; 3x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 7,
+    "featureCounts": {
+      "sunlit": 5,
+      "moonlit": 3,
+      "iron": 3,
+      "glass": 3,
+      "electric": 3,
+      "organic": 0,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 5,
+      "engraved": 8
+    },
+    "text": "Eos Gate Log 0152: The crew placed 5x Auric Feather; 3x Moon Glass; 3x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 153,
+    "scene": {
+      "Helioforge Key": 1,
+      "Amber Dial": 2,
+      "Wire Orchid": 2,
+      "Auric Feather": 2,
+      "Eclipse Shell": 1
+    },
+    "signature": "2x Amber Dial; 2x Auric Feather; 1x Eclipse Shell; 1x Helioforge Key; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 10,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 1,
+      "iron": 1,
+      "glass": 2,
+      "electric": 3,
+      "organic": 2,
+      "red": 3,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 1,
+      "floating": 4,
+      "engraved": 2
+    },
+    "text": "Eos Gate Log 0153: The crew placed 2x Amber Dial; 2x Auric Feather; 1x Eclipse Shell; 1x Helioforge Key; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 154,
+    "scene": {
+      "Nulltide Lantern": 2,
+      "Iron Root": 1,
+      "Lunar Fuse": 1,
+      "Moon Glass": 3
+    },
+    "signature": "1x Iron Root; 1x Lunar Fuse; 3x Moon Glass; 2x Nulltide Lantern",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -18,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 6,
+      "iron": 1,
+      "glass": 5,
+      "electric": 1,
+      "organic": 3,
+      "red": 0,
+      "blue": 3,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 3
+    },
+    "text": "Eos Gate Log 0154: The crew placed 1x Iron Root; 1x Lunar Fuse; 3x Moon Glass; 2x Nulltide Lantern in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 155,
+    "scene": {
+      "Silver Ash": 1,
+      "Spark Coin": 2,
+      "Nightseed Engine": 1
+    },
+    "signature": "1x Nightseed Engine; 1x Silver Ash; 2x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 2,
+    "featureCounts": {
+      "sunlit": 0,
+      "moonlit": 1,
+      "iron": 4,
+      "glass": 1,
+      "electric": 2,
+      "organic": 1,
+      "red": 3,
+      "blue": 0,
+      "ancient": 1,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0155: The crew placed 1x Nightseed Engine; 1x Silver Ash; 2x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 156,
+    "scene": {
+      "Void Bloom": 1,
+      "Sunwire Prism": 2,
+      "Iron Root": 3
+    },
+    "signature": "3x Iron Root; 2x Sunwire Prism; 1x Void Bloom",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 1,
+    "featureCounts": {
+      "sunlit": 2,
+      "moonlit": 1,
+      "iron": 3,
+      "glass": 2,
+      "electric": 2,
+      "organic": 4,
+      "red": 0,
+      "blue": 2,
+      "ancient": 3,
+      "silent": 1,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0156: The crew placed 3x Iron Root; 2x Sunwire Prism; 1x Void Bloom in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 157,
+    "scene": {
+      "Spark Coin": 2,
+      "Iron Root": 1,
+      "Solar Needle": 1,
+      "Silver Ash": 2
+    },
+    "signature": "1x Iron Root; 2x Silver Ash; 1x Solar Needle; 2x Spark Coin",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 7,
+    "featureCounts": {
+      "sunlit": 1,
+      "moonlit": 0,
+      "iron": 5,
+      "glass": 2,
+      "electric": 3,
+      "organic": 1,
+      "red": 2,
+      "blue": 0,
+      "ancient": 4,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0157: The crew placed 1x Iron Root; 2x Silver Ash; 1x Solar Needle; 2x Spark Coin in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 158,
+    "scene": {
+      "Nulltide Lantern": 1,
+      "Eclipse Shell": 3,
+      "Glass Moth": 1,
+      "Wire Orchid": 2
+    },
+    "signature": "3x Eclipse Shell; 1x Glass Moth; 1x Nulltide Lantern; 2x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -6,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 4,
+      "iron": 0,
+      "glass": 2,
+      "electric": 2,
+      "organic": 4,
+      "red": 0,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 3,
+      "floating": 3,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0158: The crew placed 3x Eclipse Shell; 1x Glass Moth; 1x Nulltide Lantern; 2x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 159,
+    "scene": {
+      "Lunar Fuse": 1,
+      "Amber Dial": 5,
+      "Helioforge Key": 1
+    },
+    "signature": "5x Amber Dial; 1x Helioforge Key; 1x Lunar Fuse",
+    "outcome": "FRACTURED",
+    "hiddenCharge": 8,
+    "featureCounts": {
+      "sunlit": 6,
+      "moonlit": 1,
+      "iron": 1,
+      "glass": 5,
+      "electric": 2,
+      "organic": 0,
+      "red": 6,
+      "blue": 1,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "text": "Eos Gate Log 0159: The crew placed 5x Amber Dial; 1x Helioforge Key; 1x Lunar Fuse in the gate chamber. Outcome: FRACTURED."
+  },
+  {
+    "id": 160,
+    "scene": {
+      "Wire Orchid": 1,
+      "Eclipse Shell": 2,
+      "Nulltide Lantern": 6,
+      "Auric Feather": 1
+    },
+    "signature": "1x Auric Feather; 2x Eclipse Shell; 6x Nulltide Lantern; 1x Wire Orchid",
+    "outcome": "FRACTURED",
+    "hiddenCharge": -22,
+    "featureCounts": {
+      "sunlit": 3,
+      "moonlit": 8,
+      "iron": 0,
+      "glass": 6,
+      "electric": 1,
+      "organic": 7,
+      "red": 0,
+      "blue": 6,
+      "ancient": 0,
+      "silent": 2,
+      "floating": 2,
+      "engraved": 1
+    },
+    "text": "Eos Gate Log 0160: The crew placed 1x Auric Feather; 2x Eclipse Shell; 6x Nulltide Lantern; 1x Wire Orchid in the gate chamber. Outcome: FRACTURED."
+  }
+]

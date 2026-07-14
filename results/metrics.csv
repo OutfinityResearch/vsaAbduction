@@ -1,0 +1,29 @@
+model,split,accuracy,threshold
+"Majority label",train,0.5,
+"Majority label",known_test,0.5,
+"Majority label",extrapolation,0.5,
+"Majority label",novel_objects,0.5,
+"Exact scene memorizer",train,1,
+"Exact scene memorizer",known_test,0.503333,
+"Exact scene memorizer",extrapolation,0.5,
+"Exact scene memorizer",novel_objects,0.5,
+"3-nearest neighbors on feature counts",train,0.875,
+"3-nearest neighbors on feature counts",known_test,0.68,
+"3-nearest neighbors on feature counts",extrapolation,0.673333,
+"3-nearest neighbors on feature counts",novel_objects,0.656667,
+"Logistic feature-bag classifier",train,0.55625,
+"Logistic feature-bag classifier",known_test,0.533333,
+"Logistic feature-bag classifier",extrapolation,0.576667,
+"Logistic feature-bag classifier",novel_objects,0.503333,
+"Semantic abductive invariant",train,1,
+"Semantic abductive invariant",known_test,1,
+"Semantic abductive invariant",extrapolation,1,
+"Semantic abductive invariant",novel_objects,1,
+"Object-id invariant",train,1,
+"Object-id invariant",known_test,1,
+"Object-id invariant",extrapolation,1,
+"Object-id invariant",novel_objects,0.5,
+"HDC residual threshold",train,1,0.939209
+"HDC residual threshold",known_test,0.97,0.939209
+"HDC residual threshold",extrapolation,0.82,0.939209
+"HDC residual threshold",novel_objects,0.953333,0.939209

@@ -1,0 +1,428 @@
+[
+  {
+    "eventId": 151,
+    "originalScene": "7x Auric Feather; 3x Glass Moth; 6x Iron Root; 3x Nightseed Engine; 8x Wire Orchid",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 2,
+    "additions": {
+      "Glass Moth": 1
+    },
+    "repairedScene": "7x Auric Feather; 4x Glass Moth; 6x Iron Root; 3x Nightseed Engine; 8x Wire Orchid",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 153,
+    "originalScene": "6x Amber Dial; 6x Auric Feather; 6x Helioforge Key; 6x Void Bloom",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 24,
+    "additions": {
+      "Nulltide Lantern": 6
+    },
+    "repairedScene": "6x Amber Dial; 6x Auric Feather; 6x Helioforge Key; 6x Nulltide Lantern; 6x Void Bloom",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 154,
+    "originalScene": "15x Lunar Fuse; 5x Moon Glass; 3x Spark Coin",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -24,
+    "additions": {
+      "Helioforge Key": 6
+    },
+    "repairedScene": "6x Helioforge Key; 15x Lunar Fuse; 5x Moon Glass; 3x Spark Coin",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 155,
+    "originalScene": "8x Amber Dial; 3x Auric Feather; 4x Eclipse Shell; 8x Nulltide Lantern; 7x Spark Coin",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -4,
+    "additions": {
+      "Helioforge Key": 1
+    },
+    "repairedScene": "8x Amber Dial; 3x Auric Feather; 4x Eclipse Shell; 1x Helioforge Key; 8x Nulltide Lantern; 7x Spark Coin",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 156,
+    "originalScene": "6x Lunar Fuse; 3x Moon Glass; 8x Silver Ash",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -15,
+    "additions": {
+      "Solar Needle": 5
+    },
+    "repairedScene": "6x Lunar Fuse; 3x Moon Glass; 8x Silver Ash; 5x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 159,
+    "originalScene": "3x Amber Dial; 3x Moon Glass; 5x Wire Orchid",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -6,
+    "additions": {
+      "Solar Needle": 2
+    },
+    "repairedScene": "3x Amber Dial; 3x Moon Glass; 2x Solar Needle; 5x Wire Orchid",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 160,
+    "originalScene": "6x Moon Glass; 9x Silver Ash; 8x Solar Needle; 4x Sunwire Prism",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 14,
+    "additions": {
+      "Nulltide Lantern": 2,
+      "Moon Glass": 2
+    },
+    "repairedScene": "8x Moon Glass; 2x Nulltide Lantern; 9x Silver Ash; 8x Solar Needle; 4x Sunwire Prism",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 161,
+    "originalScene": "8x Iron Root; 6x Moon Glass",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -18,
+    "additions": {
+      "Solar Needle": 6
+    },
+    "repairedScene": "8x Iron Root; 6x Moon Glass; 6x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 162,
+    "originalScene": "5x Eclipse Shell; 4x Helioforge Key; 3x Nightseed Engine; 6x Solar Needle",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 28,
+    "additions": {
+      "Nulltide Lantern": 7
+    },
+    "repairedScene": "5x Eclipse Shell; 4x Helioforge Key; 3x Nightseed Engine; 7x Nulltide Lantern; 6x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 164,
+    "originalScene": "4x Amber Dial; 4x Glass Moth; 7x Nulltide Lantern",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -32,
+    "additions": {
+      "Helioforge Key": 8
+    },
+    "repairedScene": "4x Amber Dial; 4x Glass Moth; 8x Helioforge Key; 7x Nulltide Lantern",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 168,
+    "originalScene": "6x Iron Root; 8x Lunar Fuse",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -8,
+    "additions": {
+      "Helioforge Key": 2
+    },
+    "repairedScene": "2x Helioforge Key; 6x Iron Root; 8x Lunar Fuse",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 170,
+    "originalScene": "14x Amber Dial",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 14,
+    "additions": {
+      "Nulltide Lantern": 2,
+      "Moon Glass": 2
+    },
+    "repairedScene": "14x Amber Dial; 2x Moon Glass; 2x Nulltide Lantern",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 171,
+    "originalScene": "4x Glass Moth; 4x Silver Ash; 3x Solar Needle; 8x Sunwire Prism; 7x Wire Orchid",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 17,
+    "additions": {
+      "Nulltide Lantern": 2,
+      "Moon Glass": 3
+    },
+    "repairedScene": "4x Glass Moth; 3x Moon Glass; 2x Nulltide Lantern; 4x Silver Ash; 3x Solar Needle; 8x Sunwire Prism; 7x Wire Orchid",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 172,
+    "originalScene": "10x Eclipse Shell; 8x Moon Glass",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -24,
+    "additions": {
+      "Helioforge Key": 6
+    },
+    "repairedScene": "10x Eclipse Shell; 6x Helioforge Key; 8x Moon Glass",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 173,
+    "originalScene": "7x Amber Dial; 6x Nulltide Lantern; 8x Silver Ash; 7x Solar Needle",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 4,
+    "additions": {
+      "Nulltide Lantern": 1
+    },
+    "repairedScene": "7x Amber Dial; 7x Nulltide Lantern; 8x Silver Ash; 7x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 174,
+    "originalScene": "5x Amber Dial; 3x Glass Moth; 8x Lunar Fuse; 4x Solar Needle; 7x Sunwire Prism",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 17,
+    "additions": {
+      "Nulltide Lantern": 2,
+      "Moon Glass": 3
+    },
+    "repairedScene": "5x Amber Dial; 3x Glass Moth; 8x Lunar Fuse; 3x Moon Glass; 2x Nulltide Lantern; 4x Solar Needle; 7x Sunwire Prism",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 175,
+    "originalScene": "3x Iron Root; 5x Nulltide Lantern; 11x Sunwire Prism; 4x Void Bloom",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -10,
+    "additions": {
+      "Spark Coin": 5
+    },
+    "repairedScene": "3x Iron Root; 5x Nulltide Lantern; 5x Spark Coin; 11x Sunwire Prism; 4x Void Bloom",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 176,
+    "originalScene": "7x Glass Moth; 5x Nightseed Engine",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -24,
+    "additions": {
+      "Helioforge Key": 6
+    },
+    "repairedScene": "7x Glass Moth; 6x Helioforge Key; 5x Nightseed Engine",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 177,
+    "originalScene": "3x Auric Feather; 6x Helioforge Key; 4x Nightseed Engine; 8x Nulltide Lantern",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -10,
+    "additions": {
+      "Spark Coin": 5
+    },
+    "repairedScene": "3x Auric Feather; 6x Helioforge Key; 4x Nightseed Engine; 8x Nulltide Lantern; 5x Spark Coin",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 178,
+    "originalScene": "4x Amber Dial; 3x Glass Moth; 5x Nightseed Engine; 4x Spark Coin",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -4,
+    "additions": {
+      "Helioforge Key": 1
+    },
+    "repairedScene": "4x Amber Dial; 3x Glass Moth; 1x Helioforge Key; 5x Nightseed Engine; 4x Spark Coin",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 179,
+    "originalScene": "3x Iron Root; 8x Lunar Fuse; 4x Nightseed Engine; 4x Solar Needle",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -4,
+    "additions": {
+      "Helioforge Key": 1
+    },
+    "repairedScene": "1x Helioforge Key; 3x Iron Root; 8x Lunar Fuse; 4x Nightseed Engine; 4x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 180,
+    "originalScene": "8x Nightseed Engine; 7x Silver Ash",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -16,
+    "additions": {
+      "Helioforge Key": 4
+    },
+    "repairedScene": "4x Helioforge Key; 8x Nightseed Engine; 7x Silver Ash",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 181,
+    "originalScene": "8x Amber Dial; 4x Eclipse Shell; 8x Solar Needle",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 32,
+    "additions": {
+      "Nulltide Lantern": 8
+    },
+    "repairedScene": "8x Amber Dial; 4x Eclipse Shell; 8x Nulltide Lantern; 8x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 182,
+    "originalScene": "5x Lunar Fuse; 8x Sunwire Prism; 8x Void Bloom",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -13,
+    "additions": {
+      "Helioforge Key": 1,
+      "Solar Needle": 3
+    },
+    "repairedScene": "1x Helioforge Key; 5x Lunar Fuse; 3x Solar Needle; 8x Sunwire Prism; 8x Void Bloom",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 186,
+    "originalScene": "6x Nightseed Engine; 3x Nulltide Lantern; 5x Wire Orchid",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -24,
+    "additions": {
+      "Helioforge Key": 6
+    },
+    "repairedScene": "6x Helioforge Key; 6x Nightseed Engine; 3x Nulltide Lantern; 5x Wire Orchid",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 187,
+    "originalScene": "11x Amber Dial; 7x Iron Root; 8x Silver Ash",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": 11,
+    "additions": {
+      "Nulltide Lantern": 2,
+      "Moon Glass": 1
+    },
+    "repairedScene": "11x Amber Dial; 7x Iron Root; 1x Moon Glass; 2x Nulltide Lantern; 8x Silver Ash",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 188,
+    "originalScene": "8x Nightseed Engine; 7x Silver Ash; 4x Void Bloom",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -28,
+    "additions": {
+      "Helioforge Key": 7
+    },
+    "repairedScene": "7x Helioforge Key; 8x Nightseed Engine; 7x Silver Ash; 4x Void Bloom",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 190,
+    "originalScene": "4x Amber Dial; 3x Moon Glass",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -5,
+    "additions": {
+      "Amber Dial": 5
+    },
+    "repairedScene": "9x Amber Dial; 3x Moon Glass",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 191,
+    "originalScene": "7x Auric Feather; 8x Nulltide Lantern; 8x Silver Ash; 4x Wire Orchid",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -18,
+    "additions": {
+      "Solar Needle": 6
+    },
+    "repairedScene": "7x Auric Feather; 8x Nulltide Lantern; 8x Silver Ash; 6x Solar Needle; 4x Wire Orchid",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  },
+  {
+    "eventId": 192,
+    "originalScene": "5x Glass Moth; 6x Iron Root; 8x Nulltide Lantern; 6x Solar Needle",
+    "originalOutcome": "FRACTURED",
+    "discoveredResidualBefore": -24,
+    "additions": {
+      "Helioforge Key": 6
+    },
+    "repairedScene": "5x Glass Moth; 6x Helioforge Key; 6x Iron Root; 8x Nulltide Lantern; 6x Solar Needle",
+    "discoveredResidualAfter": 0,
+    "oracleChargeAfter": 0,
+    "oracleOutcomeAfter": "COHERENT",
+    "verified": true
+  }
+]

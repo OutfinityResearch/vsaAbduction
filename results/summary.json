@@ -1,0 +1,419 @@
+{
+  "repositoryPlaceholder": "[PLACEHOLDER: INSERT GITHUB REPOSITORY URL HERE]",
+  "seed": 424242,
+  "hdcDimension": 8192,
+  "counts": {
+    "knownArtifacts": 16,
+    "novelArtifacts": 10,
+    "train": 160,
+    "knownTest": 300,
+    "extrapolation": 300,
+    "novelObjects": 300
+  },
+  "features": [
+    "sunlit",
+    "moonlit",
+    "iron",
+    "glass",
+    "electric",
+    "organic",
+    "red",
+    "blue",
+    "ancient",
+    "silent",
+    "floating",
+    "engraved"
+  ],
+  "hiddenLaw": {
+    "sunlit": 2,
+    "moonlit": -2,
+    "iron": 1,
+    "glass": -1,
+    "electric": 1,
+    "organic": -1,
+    "red": 0,
+    "blue": 0,
+    "ancient": 0,
+    "silent": 0,
+    "floating": 0,
+    "engraved": 0
+  },
+  "hiddenVector": [
+    2,
+    -2,
+    1,
+    -1,
+    1,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "semanticAbduction": {
+    "success": true,
+    "q": [
+      2,
+      -2,
+      1,
+      -1,
+      1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "weights": {
+      "sunlit": 2,
+      "moonlit": -2,
+      "iron": 1,
+      "glass": -1,
+      "electric": 1,
+      "organic": -1,
+      "red": 0,
+      "blue": 0,
+      "ancient": 0,
+      "silent": 0,
+      "floating": 0,
+      "engraved": 0
+    },
+    "rank": 11,
+    "nullity": 1,
+    "trainAccuracy": 1,
+    "trainMistakes": 0,
+    "stableResidual": 0,
+    "nonzero": 6,
+    "l1": 8,
+    "roundCos": 1,
+    "selectionScore": 0.9967,
+    "representation": "semantic_features",
+    "featureList": [
+      "sunlit",
+      "moonlit",
+      "iron",
+      "glass",
+      "electric",
+      "organic",
+      "red",
+      "blue",
+      "ancient",
+      "silent",
+      "floating",
+      "engraved"
+    ]
+  },
+  "objectIdAbduction": {
+    "success": true,
+    "q": [
+      4,
+      -4,
+      3,
+      -3,
+      2,
+      -2,
+      0,
+      0,
+      2,
+      -2,
+      2,
+      -3,
+      0,
+      0,
+      1,
+      -1
+    ],
+    "weights": {
+      "Helioforge Key": 4,
+      "Nulltide Lantern": -4,
+      "Solar Needle": 3,
+      "Moon Glass": -3,
+      "Spark Coin": 2,
+      "Glass Moth": -2,
+      "Iron Root": 0,
+      "Eclipse Shell": 0,
+      "Sunwire Prism": 2,
+      "Nightseed Engine": -2,
+      "Auric Feather": 2,
+      "Void Bloom": -3,
+      "Wire Orchid": 0,
+      "Silver Ash": 0,
+      "Amber Dial": 1,
+      "Lunar Fuse": -1
+    },
+    "rank": 15,
+    "nullity": 1,
+    "trainAccuracy": 1,
+    "trainMistakes": 0,
+    "stableResidual": 0,
+    "nonzero": 12,
+    "l1": 29,
+    "roundCos": 1,
+    "selectionScore": 0.99265,
+    "representation": "object_ids",
+    "objectNames": [
+      "Helioforge Key",
+      "Nulltide Lantern",
+      "Solar Needle",
+      "Moon Glass",
+      "Spark Coin",
+      "Glass Moth",
+      "Iron Root",
+      "Eclipse Shell",
+      "Sunwire Prism",
+      "Nightseed Engine",
+      "Auric Feather",
+      "Void Bloom",
+      "Wire Orchid",
+      "Silver Ash",
+      "Amber Dial",
+      "Lunar Fuse"
+    ]
+  },
+  "hdcSummary": {
+    "dimension": 8192,
+    "threshold": 0.939208984375,
+    "trainThresholdAccuracy": 1
+  },
+  "conceptRecoveredUpToSign": true,
+  "interventions": {
+    "attempted": 30,
+    "verified": 30
+  },
+  "negativeControl": {
+    "protocol": "Training labels were permuted while artifact cards and event scenes were kept fixed. The same semantic abductor was then run on the corrupted evidence and evaluated against the true oracle-labeled holdout sets.",
+    "shuffledSemantic": {
+      "success": false,
+      "reason": "No non-trivial nullspace: the rows labeled COHERENT do not admit a linear invariant in this representation.",
+      "rank": 12,
+      "nullity": 0,
+      "representation": "semantic_features",
+      "featureList": [
+        "sunlit",
+        "moonlit",
+        "iron",
+        "glass",
+        "electric",
+        "organic",
+        "red",
+        "blue",
+        "ancient",
+        "silent",
+        "floating",
+        "engraved"
+      ]
+    },
+    "trueTrainAccuracy": null,
+    "trueKnownTestAccuracy": null,
+    "trueNovelObjectAccuracy": null,
+    "sameAsHiddenUpToSign": false
+  },
+  "metrics": [
+    {
+      "model": "Majority label",
+      "split": "train",
+      "accuracy": 0.5
+    },
+    {
+      "model": "Majority label",
+      "split": "known_test",
+      "accuracy": 0.5
+    },
+    {
+      "model": "Majority label",
+      "split": "extrapolation",
+      "accuracy": 0.5
+    },
+    {
+      "model": "Majority label",
+      "split": "novel_objects",
+      "accuracy": 0.5
+    },
+    {
+      "model": "Exact scene memorizer",
+      "split": "train",
+      "accuracy": 1
+    },
+    {
+      "model": "Exact scene memorizer",
+      "split": "known_test",
+      "accuracy": 0.503333
+    },
+    {
+      "model": "Exact scene memorizer",
+      "split": "extrapolation",
+      "accuracy": 0.5
+    },
+    {
+      "model": "Exact scene memorizer",
+      "split": "novel_objects",
+      "accuracy": 0.5
+    },
+    {
+      "model": "3-nearest neighbors on feature counts",
+      "split": "train",
+      "accuracy": 0.875
+    },
+    {
+      "model": "3-nearest neighbors on feature counts",
+      "split": "known_test",
+      "accuracy": 0.68
+    },
+    {
+      "model": "3-nearest neighbors on feature counts",
+      "split": "extrapolation",
+      "accuracy": 0.673333
+    },
+    {
+      "model": "3-nearest neighbors on feature counts",
+      "split": "novel_objects",
+      "accuracy": 0.656667
+    },
+    {
+      "model": "Logistic feature-bag classifier",
+      "split": "train",
+      "accuracy": 0.55625
+    },
+    {
+      "model": "Logistic feature-bag classifier",
+      "split": "known_test",
+      "accuracy": 0.533333
+    },
+    {
+      "model": "Logistic feature-bag classifier",
+      "split": "extrapolation",
+      "accuracy": 0.576667
+    },
+    {
+      "model": "Logistic feature-bag classifier",
+      "split": "novel_objects",
+      "accuracy": 0.503333
+    },
+    {
+      "model": "Semantic abductive invariant",
+      "split": "train",
+      "accuracy": 1
+    },
+    {
+      "model": "Semantic abductive invariant",
+      "split": "known_test",
+      "accuracy": 1
+    },
+    {
+      "model": "Semantic abductive invariant",
+      "split": "extrapolation",
+      "accuracy": 1
+    },
+    {
+      "model": "Semantic abductive invariant",
+      "split": "novel_objects",
+      "accuracy": 1
+    },
+    {
+      "model": "Object-id invariant",
+      "split": "train",
+      "accuracy": 1
+    },
+    {
+      "model": "Object-id invariant",
+      "split": "known_test",
+      "accuracy": 1
+    },
+    {
+      "model": "Object-id invariant",
+      "split": "extrapolation",
+      "accuracy": 1
+    },
+    {
+      "model": "Object-id invariant",
+      "split": "novel_objects",
+      "accuracy": 0.5
+    },
+    {
+      "model": "HDC residual threshold",
+      "split": "train",
+      "accuracy": 1,
+      "threshold": 0.939209
+    },
+    {
+      "model": "HDC residual threshold",
+      "split": "known_test",
+      "accuracy": 0.97,
+      "threshold": 0.939209
+    },
+    {
+      "model": "HDC residual threshold",
+      "split": "extrapolation",
+      "accuracy": 0.82,
+      "threshold": 0.939209
+    },
+    {
+      "model": "HDC residual threshold",
+      "split": "novel_objects",
+      "accuracy": 0.953333,
+      "threshold": 0.939209
+    }
+  ],
+  "hypothesisRows": [
+    {
+      "model": "Semantic abductive invariant",
+      "trainMistakes": 0,
+      "modelBits": 37.851749041416056,
+      "dataBits": 0,
+      "totalBits": 37.851749041416056,
+      "explanation": "Introduces a sparse latent semantic property over words and an equality-to-zero law."
+    },
+    {
+      "model": "HDC residual threshold",
+      "trainMistakes": 0,
+      "modelBits": 49.851749041416056,
+      "dataBits": 0,
+      "totalBits": 49.851749041416056,
+      "explanation": "Distributed VSA/HDC realization of the same concept, with a learned threshold."
+    },
+    {
+      "model": "Object-id invariant",
+      "trainMistakes": 0,
+      "modelBits": 74.82972273508605,
+      "dataBits": 0,
+      "totalBits": 74.82972273508605,
+      "explanation": "Finds charges for known object names; cannot infer charges for new objects from descriptions."
+    },
+    {
+      "model": "Majority label",
+      "trainMistakes": 80,
+      "modelBits": 1,
+      "dataBits": 586.4733502491695,
+      "totalBits": 587.4733502491695,
+      "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+    },
+    {
+      "model": "Logistic feature-bag classifier",
+      "trainMistakes": 71,
+      "modelBits": 208,
+      "dataBits": 520.4950983461379,
+      "totalBits": 728.4950983461379,
+      "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+    },
+    {
+      "model": "Exact scene memorizer",
+      "trainMistakes": 0,
+      "modelBits": 2080,
+      "dataBits": 0,
+      "totalBits": 2080,
+      "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+    },
+    {
+      "model": "3-nearest neighbors on feature counts",
+      "trainMistakes": 20,
+      "modelBits": 7680,
+      "dataBits": 146.61833756229237,
+      "totalBits": 7826.618337562292,
+      "explanation": "Baseline predictor; does not introduce a conservation-like latent property."
+    }
+  ]
+}

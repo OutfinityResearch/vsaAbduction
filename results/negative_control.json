@@ -1,0 +1,28 @@
+{
+  "protocol": "Training labels were permuted while artifact cards and event scenes were kept fixed. The same semantic abductor was then run on the corrupted evidence and evaluated against the true oracle-labeled holdout sets.",
+  "shuffledSemantic": {
+    "success": false,
+    "reason": "No non-trivial nullspace: the rows labeled COHERENT do not admit a linear invariant in this representation.",
+    "rank": 12,
+    "nullity": 0,
+    "representation": "semantic_features",
+    "featureList": [
+      "sunlit",
+      "moonlit",
+      "iron",
+      "glass",
+      "electric",
+      "organic",
+      "red",
+      "blue",
+      "ancient",
+      "silent",
+      "floating",
+      "engraved"
+    ]
+  },
+  "trueTrainAccuracy": null,
+  "trueKnownTestAccuracy": null,
+  "trueNovelObjectAccuracy": null,
+  "sameAsHiddenUpToSign": false
+}
